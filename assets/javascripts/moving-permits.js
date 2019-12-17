@@ -1,14 +1,18 @@
 window.addEventListener('DOMContentLoaded', () => {
   Promise.all([
-    d3.csv('/assets/data/moving-truck-permits.csv', (d) => ({
-      expirationDate: +d.expiration_date.split(' ')[0].split('-')[0],
-      zip: d.zip,
+    d3.csv('/assets/data/two-digit-sector-01-17.csv', (d) => ({
+      measurementDate: +d.date,
+      categorys: d.category,
+      municipality: d.name,
+      employees: d.employees
     })),
-  ]).then((movingPermitdata) => {
-    const movingPermitsByDate = Array.from(d3.rollup(movingPermitdata[0],
-      (v) => v.length,
-      (d) => d.expirationDate,
-      (d) => d.zip))
+  ]).then((employmentData) => {
+    const filteredData = employmentData[0].filter(d => d.municipality === 'MAPC Region');
+
+    const employmentByDate = Array.from(d3.rollup(filteredData,
+      ([d]) => d.employees,
+      (d) => d.measurementDate,
+      (d) => d.categorys))
       .map(([date, data]) => [new Date(date, 0, 1), data])
       .sort(([firstDate], [secondDate]) => d3.ascending(firstDate, secondDate)); // sort by date
 
@@ -26,22 +30,12 @@ window.addEventListener('DOMContentLoaded', () => {
       .append('svg')
       .attr('viewBox', [0, 0, width, height]);
 
-    // discard empty years from datevalues
-    const consistentValues = [
-      movingPermitsByDate[4],
-      movingPermitsByDate[5],
-      movingPermitsByDate[6],
-      movingPermitsByDate[7],
-      movingPermitsByDate[8],
-      movingPermitsByDate[9],
-      movingPermitsByDate[10],
-      movingPermitsByDate[11],
-    ];
+    const categoryss = new Set(filteredData.map((d) => d.categorys));
 
-    const zips = new Set(movingPermitdata[0].map((d) => d.zip));
+    // debugger;
 
     function rank(value) {
-      const data = Array.from(zips, (zip) => ({ zip, value: value(zip) || 0 }));
+      const data = Array.from(categoryss, (categorys) => ({ categorys, value: value(categorys) || 0 }));
       data.sort((a, b) => d3.descending(a.value, b.value));
       for (let i = 0; i < data.length; ++i) data[i].rank = i;
       return data;
@@ -58,17 +52,17 @@ window.addEventListener('DOMContentLoaded', () => {
           keyframes.push([
             // year and then month based on iteration.
             new Date(startingDate * (1 - t) + endingDate * t),
-            rank((zip) => startingValue.get(zip) * (1 - t) + endingValue.get(zip) * t),
+            rank((categorys) => startingValue.get(categorys) * (1 - t) + endingValue.get(categorys) * t),
           ]);
         }
       }
       // rank stays the same based on the end value.
-      keyframes.push([new Date(endingDate), rank((zip) => endingValue.get(zip))]);
+      keyframes.push([new Date(endingDate), rank((categorys) => endingValue.get(categorys))]);
       return keyframes;
     }
 
-    const allKeyframes = keyframes(consistentValues);
-    const nameframes = d3.groups(allKeyframes.flatMap(([, data]) => data), (d) => d.zip);
+    const allKeyframes = keyframes(employmentByDate);
+    const nameframes = d3.groups(allKeyframes.flatMap(([, data]) => data), (d) => d.categorys);
     let prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
     let next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
 
@@ -86,7 +80,7 @@ window.addEventListener('DOMContentLoaded', () => {
         .selectAll('rect');
 
       return ([date, data], transition) => bar = bar
-        .data(data.slice(0, 12), (d) => d.zip)
+        .data(data.slice(0, 12), (d) => d.categorys)
         .join(
           (enter) => enter.append('rect')
             .attr('fill', '#0c8585')
@@ -121,14 +115,14 @@ window.addEventListener('DOMContentLoaded', () => {
         .selectAll('text');
 
       return ([date, data], transition) => label = label
-        .data(data.slice(0, 12), d => d.zip)
+        .data(data.slice(0, 12), d => d.categorys)
         .join(
           (enter) => enter.append('text')
             .attr('transform', d => `translate(${x((prev.get(d) || d).value)},${y((prev.get(d) || d).rank)})`)
             .attr('y', y.bandwidth() / 2)
             .attr('x', -6)
             .attr('dy', '-0.25em')
-            .text(d => d.zip)
+            .text(d => d.categorys)
             .call(text => text.append('tspan')
               .attr('fill-opacity', 0.7)
               .attr('font-weight', 'normal')
@@ -182,7 +176,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const updateTicker = ticker(svg);
 
     async function codeToRun() {
-      for (i = 0; i < (10 * consistentValues.length); i += 1) {
+      for (i = 0; i < (10 * employmentByDate.length); i += 1) {
         const transition = svg.transition().duration(250).ease(d3.easeLinear);
         x.domain([0, allKeyframes[i][1][0].value]);
         updateBars(allKeyframes[i], transition);

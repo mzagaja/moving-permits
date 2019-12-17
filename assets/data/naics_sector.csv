@@ -1,0 +1,1491 @@
+﻿date,category,name,value
+2017-01-01,MAPC_Region,Ambulatory health care services,99218
+2017-01-01,MAPC_Region,Hospitals,105549
+2017-01-01,MAPC_Region,Nursing and residential care facilities,43127
+2017-01-01,MAPC_Region,Social assistance,67391
+2017-01-01,MAPC_Region,Performing arts and spectator sports,8645
+2017-01-01,MAPC_Region,"Museums, historical sites, zoos, and parks",3429
+2017-01-01,MAPC_Region,"Amusements, gambling, and recreation",23477
+2017-01-01,MAPC_Region,Accommodation,20438
+2017-01-01,MAPC_Region,Personal and laundry services,27657
+2017-01-01,MAPC_Region,Food services and drinking places,152967
+2017-01-01,MAPC_Region,Repair and maintenance,12603
+2017-01-01,MAPC_Region,Membership associations and organizations,22626
+2017-01-01,MAPC_Region,Private households,5021
+2017-01-01,MAPC_Region,"Executive, legislative and general government",5408
+2017-01-01,MAPC_Region,"Justice, public order, and safety activities",13618
+2017-01-01,MAPC_Region,Administration of human resource programs,139
+2017-01-01,MAPC_Region,Administration of environmental programs,2624
+2017-01-01,MAPC_Region,Community and housing program administration,1623
+2017-01-01,MAPC_Region,Administration of economic programs,5865
+2017-01-01,MAPC_Region,National security and international affairs,668
+2017-01-01,MAPC_Region,Goods-Producing,189269
+2017-01-01,MAPC_Region,Service-Providing,1852245
+2017-01-01,MAPC_Region,Crop production,500
+2017-01-01,MAPC_Region,"Fishing, hunting and trapping",130
+2017-01-01,MAPC_Region,Agriculture and forestry support activities,154
+2017-01-01,MAPC_Region,Support activities for mining,39
+2017-01-01,MAPC_Region,Utilities,4279
+2017-01-01,MAPC_Region,Construction of buildings,17935
+2017-01-01,MAPC_Region,Heavy and civil engineering construction,9400
+2017-01-01,MAPC_Region,Specialty trade contractors,51995
+2017-01-01,MAPC_Region,Food manufacturing,10734
+2017-01-01,MAPC_Region,Beverage and tobacco product manufacturing,773
+2017-01-01,MAPC_Region,Textile product mills,144
+2017-01-01,MAPC_Region,Apparel manufacturing,352
+2017-01-01,MAPC_Region,Wood product manufacturing,86
+2017-01-01,MAPC_Region,Paper manufacturing,629
+2017-01-01,MAPC_Region,Printing and related support activities,3185
+2017-01-01,MAPC_Region,Electrical equipment and appliance mfg.,1282
+2017-01-01,MAPC_Region,Chemical manufacturing,8214
+2017-01-01,MAPC_Region,Plastics and rubber products manufacturing,611
+2017-01-01,MAPC_Region,Nonmetallic mineral product manufacturing,440
+2017-01-01,MAPC_Region,Fabricated metal product manufacturing,7862
+2017-01-01,MAPC_Region,Machinery manufacturing,2463
+2017-01-01,MAPC_Region,Computer and electronic product manufacturing,18997
+2017-01-01,MAPC_Region,Transportation equipment manufacturing,249
+2017-01-01,MAPC_Region,Furniture and related product manufacturing,550
+2017-01-01,MAPC_Region,Miscellaneous manufacturing,4254
+2017-01-01,MAPC_Region,"Merchant wholesalers, durable goods",32123
+2017-01-01,MAPC_Region,"Merchant wholesalers, nondurable goods",21555
+2017-01-01,MAPC_Region,Electronic markets and agents and brokers,10365
+2017-01-01,MAPC_Region,Motor vehicle and parts dealers,16540
+2017-01-01,MAPC_Region,Furniture and home furnishings stores,5005
+2017-01-01,MAPC_Region,Electronics and appliance stores,4077
+2017-01-01,MAPC_Region,Building material and garden supply stores,8910
+2017-01-01,MAPC_Region,Food and beverage stores,48343
+2017-01-01,MAPC_Region,Health and personal care stores,14492
+2017-01-01,MAPC_Region,Gasoline stations,4572
+2017-01-01,MAPC_Region,Clothing and clothing accessories stores,22750
+2017-01-01,MAPC_Region,Miscellaneous store retailers,9319
+2017-01-01,MAPC_Region,"Sports, hobby, music instrument, book stores",7514
+2017-01-01,MAPC_Region,General merchandise stores,19842
+2017-01-01,MAPC_Region,Nonstore retailers,8682
+2017-01-01,MAPC_Region,Air transportation,7564
+2017-01-01,MAPC_Region,Water transportation,15
+2017-01-01,MAPC_Region,Truck transportation,5243
+2017-01-01,MAPC_Region,Transit and ground passenger transportation,14058
+2017-01-01,MAPC_Region,Scenic and sightseeing transportation,1267
+2017-01-01,MAPC_Region,Support activities for transportation,5606
+2017-01-01,MAPC_Region,Couriers and messengers,2386
+2017-01-01,MAPC_Region,Warehousing and storage,994
+2017-01-01,MAPC_Region,Motion picture and sound recording industries,2138
+2017-01-01,MAPC_Region,"Publishing industries, except Internet",28988
+2017-01-01,MAPC_Region,"Broadcasting, except Internet",2591
+2017-01-01,MAPC_Region,Telecommunications,6514
+2017-01-01,MAPC_Region,"Data processing, hosting and related services",3627
+2017-01-01,MAPC_Region,Other information services,8363
+2017-01-01,MAPC_Region,Credit intermediation and related activities,32610
+2017-01-01,MAPC_Region,"Securities, commodity contracts, investments",38928
+2017-01-01,MAPC_Region,Insurance carriers and related activities,42184
+2017-01-01,MAPC_Region,"Funds, trusts, and other financial vehicles",13
+2017-01-01,MAPC_Region,Real estate,25299
+2017-01-01,MAPC_Region,Rental and leasing services,5559
+2017-01-01,MAPC_Region,Professional and technical services,241502
+2017-01-01,MAPC_Region,Management of companies and enterprises,43060
+2017-01-01,MAPC_Region,Administrative and support services,104513
+2017-01-01,MAPC_Region,Educational services,170340
+2017-01-01,MAPC_Region,Waste management and remediation services,4105
+2016-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13458
+2016-01-01,MAPC_Region,Ambulatory Health Care Services,97278
+2016-01-01,MAPC_Region,Hospitals,102590
+2016-01-01,MAPC_Region,Nursing and Residential Care Facilities,42072
+2016-01-01,MAPC_Region,Social Assistance,64807
+2016-01-01,MAPC_Region,Performing Arts and Spectator Sports,8617
+2016-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3369
+2016-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",22794
+2016-01-01,MAPC_Region,Accommodation,20595
+2016-01-01,MAPC_Region,Food Services and Drinking Places,149060
+2016-01-01,MAPC_Region,Repair and Maintenance,12781
+2016-01-01,MAPC_Region,Personal and Laundry Services,26762
+2016-01-01,MAPC_Region,Membership Organizations & Associations,22788
+2016-01-01,MAPC_Region,Private Households,5091
+2016-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5537
+2016-01-01,MAPC_Region,Administration of Human Resource Program,139
+2016-01-01,MAPC_Region,Administration of Environmental Programs,2691
+2016-01-01,MAPC_Region,Community and Housing Program Admin,1647
+2016-01-01,MAPC_Region,Administration of Economic Programs,5776
+2016-01-01,MAPC_Region,National Security & International Affair,662
+2016-01-01,MAPC_Region,Goods-Producing Domain,188574
+2016-01-01,MAPC_Region,Service-Providing Domain,1825715
+2016-01-01,MAPC_Region,Crop Production,490
+2016-01-01,MAPC_Region,"Fishing, Hunting and Trapping",129
+2016-01-01,MAPC_Region,Agriculture & Forestry Support Activity,142
+2016-01-01,MAPC_Region,Support Activities for Mining,40
+2016-01-01,MAPC_Region,Utilities,4276
+2016-01-01,MAPC_Region,Construction of Buildings,17041
+2016-01-01,MAPC_Region,Heavy and Civil Engineering Construction,8483
+2016-01-01,MAPC_Region,Specialty Trade Contractors,49944
+2016-01-01,MAPC_Region,Food Manufacturing,10615
+2016-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,617
+2016-01-01,MAPC_Region,Textile Product Mills,195
+2016-01-01,MAPC_Region,Apparel Manufacturing,419
+2016-01-01,MAPC_Region,Wood Product Manufacturing,156
+2016-01-01,MAPC_Region,Paper Manufacturing,650
+2016-01-01,MAPC_Region,Printing and Related Support Activities,3209
+2016-01-01,MAPC_Region,Chemical Manufacturing,8256
+2016-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,659
+2016-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,329
+2016-01-01,MAPC_Region,Electrical Equipment and Appliances,1237
+2016-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7623
+2016-01-01,MAPC_Region,Machinery Manufacturing,2277
+2016-01-01,MAPC_Region,Computer and Electronic Product Mfg,21326
+2016-01-01,MAPC_Region,Transportation Equipment Manufacturing,386
+2016-01-01,MAPC_Region,Furniture and Related Product Mfg,482
+2016-01-01,MAPC_Region,Miscellaneous Manufacturing,3914
+2016-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",31714
+2016-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",21563
+2016-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10532
+2016-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16153
+2016-01-01,MAPC_Region,Furniture and Home Furnishings Stores,4942
+2016-01-01,MAPC_Region,Electronics and Appliance Stores,4333
+2016-01-01,MAPC_Region,Building Material & Garden Supply Stores,9280
+2016-01-01,MAPC_Region,Food and Beverage Stores,48793
+2016-01-01,MAPC_Region,Gasoline Stations,4507
+2016-01-01,MAPC_Region,Health and Personal Care Stores,14029
+2016-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22490
+2016-01-01,MAPC_Region,General Merchandise Stores,19871
+2016-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,7595
+2016-01-01,MAPC_Region,Miscellaneous Store Retailers,9214
+2016-01-01,MAPC_Region,Nonstore Retailers,8167
+2016-01-01,MAPC_Region,Air Transportation,7476
+2016-01-01,MAPC_Region,Water Transportation,24
+2016-01-01,MAPC_Region,Truck Transportation,5274
+2016-01-01,MAPC_Region,Transit and Ground Passenger Transport,14332
+2016-01-01,MAPC_Region,Scenic and Sightseeing Transportation,1191
+2016-01-01,MAPC_Region,Support Activities for Transportation,5212
+2016-01-01,MAPC_Region,Couriers and Messengers,2450
+2016-01-01,MAPC_Region,Warehousing and Storage,1083
+2016-01-01,MAPC_Region,Publishing Industries,26789
+2016-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2191
+2016-01-01,MAPC_Region,Broadcasting (except Internet),2424
+2016-01-01,MAPC_Region,Telecommunications,6179
+2016-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",3407
+2016-01-01,MAPC_Region,Other Information Services,7963
+2016-01-01,MAPC_Region,Credit Intermediation & Related Activity,32959
+2016-01-01,MAPC_Region,Financial Investment & Related Activity,38468
+2016-01-01,MAPC_Region,Insurance Carriers & Related Activities,42749
+2016-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",11
+2016-01-01,MAPC_Region,Real Estate,24473
+2016-01-01,MAPC_Region,Rental and Leasing Services,5615
+2016-01-01,MAPC_Region,Professional and Technical Services,234762
+2016-01-01,MAPC_Region,Management of Companies and Enterprises,42027
+2016-01-01,MAPC_Region,Administrative and Support Services,105151
+2016-01-01,MAPC_Region,Waste Management and Remediation Service,3627
+2016-01-01,MAPC_Region,Educational Services,167536
+2015-01-01,MAPC_Region,Ambulatory Health Care Services,93973
+2015-01-01,MAPC_Region,Hospitals,102069
+2015-01-01,MAPC_Region,Nursing and Residential Care Facilities,41728
+2015-01-01,MAPC_Region,Social Assistance,62314
+2015-01-01,MAPC_Region,Performing Arts and Spectator Sports,8044
+2015-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3284
+2015-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",21922
+2015-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13346
+2015-01-01,MAPC_Region,Accommodation,20232
+2015-01-01,MAPC_Region,Food Services and Drinking Places,143523
+2015-01-01,MAPC_Region,Repair and Maintenance,12474
+2015-01-01,MAPC_Region,Personal and Laundry Services,25857
+2015-01-01,MAPC_Region,Membership Organizations & Associations,23063
+2015-01-01,MAPC_Region,Private Households,4984
+2015-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5642
+2015-01-01,MAPC_Region,Administration of Human Resource Program,140
+2015-01-01,MAPC_Region,Administration of Environmental Programs,2831
+2015-01-01,MAPC_Region,Community and Housing Program Admin,1684
+2015-01-01,MAPC_Region,Administration of Economic Programs,5690
+2015-01-01,MAPC_Region,National Security & International Affair,725
+2015-01-01,MAPC_Region,Goods-Producing Domain,179957
+2015-01-01,MAPC_Region,Service-Providing Domain,1786716
+2015-01-01,MAPC_Region,Crop Production,523
+2015-01-01,MAPC_Region,"Fishing, Hunting and Trapping",122
+2015-01-01,MAPC_Region,Agriculture & Forestry Support Activity,168
+2015-01-01,MAPC_Region,Support Activities for Mining,5
+2015-01-01,MAPC_Region,Utilities,4091
+2015-01-01,MAPC_Region,Construction of Buildings,15717
+2015-01-01,MAPC_Region,Heavy and Civil Engineering Construction,9692
+2015-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,7714
+2015-01-01,MAPC_Region,Specialty Trade Contractors,48019
+2015-01-01,MAPC_Region,Food Manufacturing,10673
+2015-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,612
+2015-01-01,MAPC_Region,Textile Product Mills,143
+2015-01-01,MAPC_Region,Apparel Manufacturing,493
+2015-01-01,MAPC_Region,Leather and Allied Product Manufacturing,57
+2015-01-01,MAPC_Region,Wood Product Manufacturing,110
+2015-01-01,MAPC_Region,Paper Manufacturing,646
+2015-01-01,MAPC_Region,Printing and Related Support Activities,3230
+2015-01-01,MAPC_Region,Chemical Manufacturing,8552
+2015-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,939
+2015-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,344
+2015-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7534
+2015-01-01,MAPC_Region,Machinery Manufacturing,2496
+2015-01-01,MAPC_Region,Electrical Equipment and Appliances,891
+2015-01-01,MAPC_Region,Computer and Electronic Product Mfg,21426
+2015-01-01,MAPC_Region,Transportation Equipment Manufacturing,414
+2015-01-01,MAPC_Region,Miscellaneous Manufacturing,3614
+2015-01-01,MAPC_Region,Furniture and Related Product Mfg,501
+2015-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",31100
+2015-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",20345
+2015-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10621
+2015-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16030
+2015-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5449
+2015-01-01,MAPC_Region,Electronics and Appliance Stores,4430
+2015-01-01,MAPC_Region,Building Material & Garden Supply Stores,8984
+2015-01-01,MAPC_Region,Food and Beverage Stores,48881
+2015-01-01,MAPC_Region,Health and Personal Care Stores,13893
+2015-01-01,MAPC_Region,Gasoline Stations,4482
+2015-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22014
+2015-01-01,MAPC_Region,General Merchandise Stores,19803
+2015-01-01,MAPC_Region,Miscellaneous Store Retailers,9391
+2015-01-01,MAPC_Region,Nonstore Retailers,7203
+2015-01-01,MAPC_Region,Air Transportation,7097
+2015-01-01,MAPC_Region,Water Transportation,24
+2015-01-01,MAPC_Region,Truck Transportation,5091
+2015-01-01,MAPC_Region,Transit and Ground Passenger Transport,14548
+2015-01-01,MAPC_Region,Scenic and Sightseeing Transportation,1233
+2015-01-01,MAPC_Region,Support Activities for Transportation,5146
+2015-01-01,MAPC_Region,Couriers and Messengers,2450
+2015-01-01,MAPC_Region,Warehousing and Storage,1128
+2015-01-01,MAPC_Region,Publishing Industries,27110
+2015-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2012
+2015-01-01,MAPC_Region,Broadcasting (except Internet),2409
+2015-01-01,MAPC_Region,Telecommunications,6798
+2015-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",2823
+2015-01-01,MAPC_Region,Other Information Services,8863
+2015-01-01,MAPC_Region,Credit Intermediation & Related Activity,32263
+2015-01-01,MAPC_Region,Financial Investment & Related Activity,37949
+2015-01-01,MAPC_Region,Insurance Carriers & Related Activities,41582
+2015-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",10
+2015-01-01,MAPC_Region,Rental and Leasing Services,5616
+2015-01-01,MAPC_Region,Real Estate,23599
+2015-01-01,MAPC_Region,Professional and Technical Services,226210
+2015-01-01,MAPC_Region,Management of Companies and Enterprises,41356
+2015-01-01,MAPC_Region,Administrative and Support Services,104167
+2015-01-01,MAPC_Region,Waste Management and Remediation Service,3299
+2015-01-01,MAPC_Region,Educational Services,164119
+2014-01-01,MAPC_Region,Ambulatory Health Care Services,90745
+2014-01-01,MAPC_Region,Hospitals,98857
+2014-01-01,MAPC_Region,Nursing and Residential Care Facilities,41634
+2014-01-01,MAPC_Region,Social Assistance,58944
+2014-01-01,MAPC_Region,Performing Arts and Spectator Sports,7864
+2014-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3301
+2014-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",21004
+2014-01-01,MAPC_Region,Accommodation,19419
+2014-01-01,MAPC_Region,Food Services and Drinking Places,140235
+2014-01-01,MAPC_Region,Repair and Maintenance,12170
+2014-01-01,MAPC_Region,Personal and Laundry Services,25191
+2014-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13326
+2014-01-01,MAPC_Region,Private Households,4960
+2014-01-01,MAPC_Region,Membership Organizations & Associations,24585
+2014-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5775
+2014-01-01,MAPC_Region,Administration of Human Resource Program,132
+2014-01-01,MAPC_Region,Administration of Environmental Programs,2884
+2014-01-01,MAPC_Region,Community and Housing Program Admin,1760
+2014-01-01,MAPC_Region,Administration of Economic Programs,5729
+2014-01-01,MAPC_Region,National Security & International Affair,632
+2014-01-01,MAPC_Region,Goods-Producing Domain,175466
+2014-01-01,MAPC_Region,Service-Providing Domain,1748084
+2014-01-01,MAPC_Region,Crop Production,490
+2014-01-01,MAPC_Region,"Fishing, Hunting and Trapping",123
+2014-01-01,MAPC_Region,Agriculture & Forestry Support Activity,131
+2014-01-01,MAPC_Region,Support Activities for Mining,44
+2014-01-01,MAPC_Region,Utilities,4150
+2014-01-01,MAPC_Region,Construction of Buildings,14729
+2014-01-01,MAPC_Region,Heavy and Civil Engineering Construction,8253
+2014-01-01,MAPC_Region,Specialty Trade Contractors,43601
+2014-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,95
+2014-01-01,MAPC_Region,Printing and Related Support Activities,3370
+2014-01-01,MAPC_Region,Food Manufacturing,11314
+2014-01-01,MAPC_Region,Textile Product Mills,127
+2014-01-01,MAPC_Region,Apparel Manufacturing,382
+2014-01-01,MAPC_Region,Leather and Allied Product Manufacturing,59
+2014-01-01,MAPC_Region,Wood Product Manufacturing,99
+2014-01-01,MAPC_Region,Paper Manufacturing,619
+2014-01-01,MAPC_Region,Chemical Manufacturing,6352
+2014-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,927
+2014-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,331
+2014-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9642
+2014-01-01,MAPC_Region,Machinery Manufacturing,2423
+2014-01-01,MAPC_Region,Computer and Electronic Product Mfg,23510
+2014-01-01,MAPC_Region,Electrical Equipment and Appliances,727
+2014-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8071
+2014-01-01,MAPC_Region,Transportation Equipment Manufacturing,540
+2014-01-01,MAPC_Region,Furniture and Related Product Mfg,497
+2014-01-01,MAPC_Region,Miscellaneous Manufacturing,3508
+2014-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",29991
+2014-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",20368
+2014-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,11042
+2014-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,15570
+2014-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5540
+2014-01-01,MAPC_Region,Electronics and Appliance Stores,4420
+2014-01-01,MAPC_Region,Building Material & Garden Supply Stores,8918
+2014-01-01,MAPC_Region,Food and Beverage Stores,46689
+2014-01-01,MAPC_Region,Health and Personal Care Stores,14174
+2014-01-01,MAPC_Region,Gasoline Stations,4421
+2014-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22131
+2014-01-01,MAPC_Region,General Merchandise Stores,19282
+2014-01-01,MAPC_Region,Miscellaneous Store Retailers,9493
+2014-01-01,MAPC_Region,Nonstore Retailers,6900
+2014-01-01,MAPC_Region,Air Transportation,6772
+2014-01-01,MAPC_Region,Water Transportation,14
+2014-01-01,MAPC_Region,Truck Transportation,5050
+2014-01-01,MAPC_Region,Transit and Ground Passenger Transport,13787
+2014-01-01,MAPC_Region,Scenic and Sightseeing Transportation,1101
+2014-01-01,MAPC_Region,Support Activities for Transportation,4979
+2014-01-01,MAPC_Region,Couriers and Messengers,2393
+2014-01-01,MAPC_Region,Warehousing and Storage,1305
+2014-01-01,MAPC_Region,Publishing Industries,25478
+2014-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2010
+2014-01-01,MAPC_Region,Broadcasting (except Internet),2315
+2014-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",2436
+2014-01-01,MAPC_Region,Telecommunications,6818
+2014-01-01,MAPC_Region,Other Information Services,7788
+2014-01-01,MAPC_Region,Credit Intermediation & Related Activity,31795
+2014-01-01,MAPC_Region,Financial Investment & Related Activity,37720
+2014-01-01,MAPC_Region,Insurance Carriers & Related Activities,42642
+2014-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",8
+2014-01-01,MAPC_Region,Real Estate,22758
+2014-01-01,MAPC_Region,Rental and Leasing Services,5550
+2014-01-01,MAPC_Region,Professional and Technical Services,218867
+2014-01-01,MAPC_Region,Management of Companies and Enterprises,39637
+2014-01-01,MAPC_Region,Administrative and Support Services,99211
+2014-01-01,MAPC_Region,Waste Management and Remediation Service,3061
+2014-01-01,MAPC_Region,Educational Services,163467
+2013-01-01,MAPC_Region,Specialty Trade Contractors,41713
+2013-01-01,MAPC_Region,Ambulatory Health Care Services,88688
+2013-01-01,MAPC_Region,Hospitals,91299
+2013-01-01,MAPC_Region,Nursing and Residential Care Facilities,40946
+2013-01-01,MAPC_Region,Social Assistance,55395
+2013-01-01,MAPC_Region,Performing Arts and Spectator Sports,7262
+2013-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3316
+2013-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",19779
+2013-01-01,MAPC_Region,Accommodation,19574
+2013-01-01,MAPC_Region,Food Services and Drinking Places,136318
+2013-01-01,MAPC_Region,Repair and Maintenance,11786
+2013-01-01,MAPC_Region,Personal and Laundry Services,24449
+2013-01-01,MAPC_Region,Membership Organizations & Associations,23458
+2013-01-01,MAPC_Region,Private Households,5108
+2013-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13386
+2013-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5483
+2013-01-01,MAPC_Region,Administration of Human Resource Program,134
+2013-01-01,MAPC_Region,Administration of Environmental Programs,2913
+2013-01-01,MAPC_Region,Community and Housing Program Admin,1999
+2013-01-01,MAPC_Region,Administration of Economic Programs,5761
+2013-01-01,MAPC_Region,National Security & International Affair,625
+2013-01-01,MAPC_Region,Goods-Producing Domain,180081
+2013-01-01,MAPC_Region,Service-Providing Domain,1709626
+2013-01-01,MAPC_Region,Crop Production,437
+2013-01-01,MAPC_Region,"Fishing, Hunting and Trapping",116
+2013-01-01,MAPC_Region,Agriculture & Forestry Support Activity,88
+2013-01-01,MAPC_Region,Utilities,4074
+2013-01-01,MAPC_Region,Construction of Buildings,14040
+2013-01-01,MAPC_Region,Heavy and Civil Engineering Construction,7789
+2013-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,88
+2013-01-01,MAPC_Region,Food Manufacturing,10917
+2013-01-01,MAPC_Region,Textile Product Mills,192
+2013-01-01,MAPC_Region,Printing and Related Support Activities,3541
+2013-01-01,MAPC_Region,Wood Product Manufacturing,26
+2013-01-01,MAPC_Region,Apparel Manufacturing,295
+2013-01-01,MAPC_Region,Leather and Allied Product Manufacturing,62
+2013-01-01,MAPC_Region,Paper Manufacturing,647
+2013-01-01,MAPC_Region,Chemical Manufacturing,5540
+2013-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,1019
+2013-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,323
+2013-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7736
+2013-01-01,MAPC_Region,Machinery Manufacturing,2293
+2013-01-01,MAPC_Region,Computer and Electronic Product Mfg,22727
+2013-01-01,MAPC_Region,Electrical Equipment and Appliances,878
+2013-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",29400
+2013-01-01,MAPC_Region,Transportation Equipment Manufacturing,401
+2013-01-01,MAPC_Region,Furniture and Related Product Mfg,523
+2013-01-01,MAPC_Region,Miscellaneous Manufacturing,3411
+2013-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",20058
+2013-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,11132
+2013-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,14995
+2013-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5487
+2013-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,7927
+2013-01-01,MAPC_Region,Electronics and Appliance Stores,4623
+2013-01-01,MAPC_Region,Building Material & Garden Supply Stores,8478
+2013-01-01,MAPC_Region,Food and Beverage Stores,45588
+2013-01-01,MAPC_Region,Health and Personal Care Stores,14156
+2013-01-01,MAPC_Region,Gasoline Stations,4283
+2013-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22125
+2013-01-01,MAPC_Region,General Merchandise Stores,20012
+2013-01-01,MAPC_Region,Miscellaneous Store Retailers,9272
+2013-01-01,MAPC_Region,Nonstore Retailers,6307
+2013-01-01,MAPC_Region,Air Transportation,6543
+2013-01-01,MAPC_Region,Water Transportation,25
+2013-01-01,MAPC_Region,Truck Transportation,4799
+2013-01-01,MAPC_Region,Transit and Ground Passenger Transport,4931
+2013-01-01,MAPC_Region,Scenic and Sightseeing Transportation,1067
+2013-01-01,MAPC_Region,Support Activities for Transportation,4689
+2013-01-01,MAPC_Region,Couriers and Messengers,2327
+2013-01-01,MAPC_Region,Warehousing and Storage,1332
+2013-01-01,MAPC_Region,Publishing Industries,25193
+2013-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2221
+2013-01-01,MAPC_Region,Broadcasting (except Internet),2296
+2013-01-01,MAPC_Region,Telecommunications,8062
+2013-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",2702
+2013-01-01,MAPC_Region,Other Information Services,7265
+2013-01-01,MAPC_Region,Credit Intermediation & Related Activity,31973
+2013-01-01,MAPC_Region,Financial Investment & Related Activity,37269
+2013-01-01,MAPC_Region,Insurance Carriers & Related Activities,39837
+2013-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",6
+2013-01-01,MAPC_Region,Real Estate,22256
+2013-01-01,MAPC_Region,Rental and Leasing Services,5131
+2013-01-01,MAPC_Region,Professional and Technical Services,211562
+2013-01-01,MAPC_Region,Management of Companies and Enterprises,38877
+2013-01-01,MAPC_Region,Administrative and Support Services,96798
+2013-01-01,MAPC_Region,Waste Management and Remediation Service,3213
+2013-01-01,MAPC_Region,Educational Services,159730
+2012-01-01,MAPC_Region,Ambulatory Health Care Services,85641
+2012-01-01,MAPC_Region,Hospitals,88762
+2012-01-01,MAPC_Region,Nursing and Residential Care Facilities,40645
+2012-01-01,MAPC_Region,Social Assistance,41651
+2012-01-01,MAPC_Region,Performing Arts and Spectator Sports,6577
+2012-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3094
+2012-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",19459
+2012-01-01,MAPC_Region,Accommodation,18970
+2012-01-01,MAPC_Region,Food Services and Drinking Places,132261
+2012-01-01,MAPC_Region,Repair and Maintenance,11204
+2012-01-01,MAPC_Region,Personal and Laundry Services,23535
+2012-01-01,MAPC_Region,Membership Organizations & Associations,23417
+2012-01-01,MAPC_Region,Private Households,15671
+2012-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",14262
+2012-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5894
+2012-01-01,MAPC_Region,Administration of Human Resource Program,136
+2012-01-01,MAPC_Region,Administration of Environmental Programs,2894
+2012-01-01,MAPC_Region,Community and Housing Program Admin,2012
+2012-01-01,MAPC_Region,Administration of Economic Programs,5864
+2012-01-01,MAPC_Region,National Security & International Affair,614
+2012-01-01,MAPC_Region,Specialty Trade Contractors,38763
+2012-01-01,MAPC_Region,Goods-Producing Domain,175349
+2012-01-01,MAPC_Region,Service-Providing Domain,1676142
+2012-01-01,MAPC_Region,Crop Production,409
+2012-01-01,MAPC_Region,"Fishing, Hunting and Trapping",148
+2012-01-01,MAPC_Region,Agriculture & Forestry Support Activity,64
+2012-01-01,MAPC_Region,Utilities,4433
+2012-01-01,MAPC_Region,Construction of Buildings,12984
+2012-01-01,MAPC_Region,Heavy and Civil Engineering Construction,6858
+2012-01-01,MAPC_Region,Apparel Manufacturing,381
+2012-01-01,MAPC_Region,Food Manufacturing,10129
+2012-01-01,MAPC_Region,Textile Product Mills,168
+2012-01-01,MAPC_Region,Wood Product Manufacturing,30
+2012-01-01,MAPC_Region,Leather and Allied Product Manufacturing,65
+2012-01-01,MAPC_Region,Printing and Related Support Activities,3738
+2012-01-01,MAPC_Region,Paper Manufacturing,684
+2012-01-01,MAPC_Region,Chemical Manufacturing,5693
+2012-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,888
+2012-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,305
+2012-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,8004
+2012-01-01,MAPC_Region,Machinery Manufacturing,2311
+2012-01-01,MAPC_Region,Computer and Electronic Product Mfg,22155
+2012-01-01,MAPC_Region,Electrical Equipment and Appliances,1136
+2012-01-01,MAPC_Region,Transportation Equipment Manufacturing,272
+2012-01-01,MAPC_Region,Furniture and Related Product Mfg,499
+2012-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",29449
+2012-01-01,MAPC_Region,Miscellaneous Manufacturing,4143
+2012-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,11011
+2012-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",19352
+2012-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,14661
+2012-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5436
+2012-01-01,MAPC_Region,Electronics and Appliance Stores,5038
+2012-01-01,MAPC_Region,Building Material & Garden Supply Stores,8473
+2012-01-01,MAPC_Region,Food and Beverage Stores,45000
+2012-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8069
+2012-01-01,MAPC_Region,Health and Personal Care Stores,13166
+2012-01-01,MAPC_Region,Gasoline Stations,4214
+2012-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22348
+2012-01-01,MAPC_Region,General Merchandise Stores,19731
+2012-01-01,MAPC_Region,Miscellaneous Store Retailers,9193
+2012-01-01,MAPC_Region,Nonstore Retailers,5659
+2012-01-01,MAPC_Region,Air Transportation,6602
+2012-01-01,MAPC_Region,Water Transportation,29
+2012-01-01,MAPC_Region,Truck Transportation,4483
+2012-01-01,MAPC_Region,Transit and Ground Passenger Transport,13133
+2012-01-01,MAPC_Region,Scenic and Sightseeing Transportation,969
+2012-01-01,MAPC_Region,Support Activities for Transportation,5225
+2012-01-01,MAPC_Region,Couriers and Messengers,2255
+2012-01-01,MAPC_Region,Warehousing and Storage,1372
+2012-01-01,MAPC_Region,Publishing Industries,26130
+2012-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2105
+2012-01-01,MAPC_Region,Broadcasting (except Internet),2222
+2012-01-01,MAPC_Region,Telecommunications,8676
+2012-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",2787
+2012-01-01,MAPC_Region,Other Information Services,6890
+2012-01-01,MAPC_Region,Credit Intermediation & Related Activity,31783
+2012-01-01,MAPC_Region,Financial Investment & Related Activity,36258
+2012-01-01,MAPC_Region,Insurance Carriers & Related Activities,39723
+2012-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1112
+2012-01-01,MAPC_Region,Real Estate,21522
+2012-01-01,MAPC_Region,Rental and Leasing Services,5020
+2012-01-01,MAPC_Region,Professional and Technical Services,201595
+2012-01-01,MAPC_Region,Management of Companies and Enterprises,36762
+2012-01-01,MAPC_Region,Administrative and Support Services,93817
+2012-01-01,MAPC_Region,Waste Management and Remediation Service,3195
+2012-01-01,MAPC_Region,Educational Services,160296
+2011-01-01,MAPC_Region,Ambulatory Health Care Services,82561
+2011-01-01,MAPC_Region,Hospitals,88118
+2011-01-01,MAPC_Region,Nursing and Residential Care Facilities,40255
+2011-01-01,MAPC_Region,Social Assistance,39997
+2011-01-01,MAPC_Region,Performing Arts and Spectator Sports,6271
+2011-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2949
+2011-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",18772
+2011-01-01,MAPC_Region,Accommodation,18591
+2011-01-01,MAPC_Region,Food Services and Drinking Places,126996
+2011-01-01,MAPC_Region,Repair and Maintenance,11214
+2011-01-01,MAPC_Region,Personal and Laundry Services,22943
+2011-01-01,MAPC_Region,Membership Organizations & Associations,22028
+2011-01-01,MAPC_Region,Private Households,14875
+2011-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5915
+2011-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",14201
+2011-01-01,MAPC_Region,Administration of Human Resource Program,135
+2011-01-01,MAPC_Region,Administration of Environmental Programs,2972
+2011-01-01,MAPC_Region,Community and Housing Program Admin,2002
+2011-01-01,MAPC_Region,Administration of Economic Programs,5948
+2011-01-01,MAPC_Region,National Security & International Affair,630
+2011-01-01,MAPC_Region,Specialty Trade Contractors,36428
+2011-01-01,MAPC_Region,Goods-Producing Domain,172190
+2011-01-01,MAPC_Region,Service-Providing Domain,1646081
+2011-01-01,MAPC_Region,Crop Production,387
+2011-01-01,MAPC_Region,"Fishing, Hunting and Trapping",139
+2011-01-01,MAPC_Region,Agriculture & Forestry Support Activity,71
+2011-01-01,MAPC_Region,Utilities,4395
+2011-01-01,MAPC_Region,Construction of Buildings,12619
+2011-01-01,MAPC_Region,Heavy and Civil Engineering Construction,6863
+2011-01-01,MAPC_Region,Food Manufacturing,9630
+2011-01-01,MAPC_Region,Apparel Manufacturing,536
+2011-01-01,MAPC_Region,Textile Product Mills,122
+2011-01-01,MAPC_Region,Leather and Allied Product Manufacturing,62
+2011-01-01,MAPC_Region,Wood Product Manufacturing,29
+2011-01-01,MAPC_Region,Paper Manufacturing,717
+2011-01-01,MAPC_Region,Printing and Related Support Activities,4213
+2011-01-01,MAPC_Region,Chemical Manufacturing,5603
+2011-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,898
+2011-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,303
+2011-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7924
+2011-01-01,MAPC_Region,Machinery Manufacturing,2714
+2011-01-01,MAPC_Region,Computer and Electronic Product Mfg,22320
+2011-01-01,MAPC_Region,Electrical Equipment and Appliances,821
+2011-01-01,MAPC_Region,Furniture and Related Product Mfg,488
+2011-01-01,MAPC_Region,Transportation Equipment Manufacturing,787
+2011-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5484
+2011-01-01,MAPC_Region,Miscellaneous Manufacturing,3979
+2011-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",30138
+2011-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10903
+2011-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",19298
+2011-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,14649
+2011-01-01,MAPC_Region,Electronics and Appliance Stores,5231
+2011-01-01,MAPC_Region,Building Material & Garden Supply Stores,8454
+2011-01-01,MAPC_Region,Food and Beverage Stores,45379
+2011-01-01,MAPC_Region,Health and Personal Care Stores,12965
+2011-01-01,MAPC_Region,Gasoline Stations,4211
+2011-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8058
+2011-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,22023
+2011-01-01,MAPC_Region,General Merchandise Stores,20405
+2011-01-01,MAPC_Region,Miscellaneous Store Retailers,9075
+2011-01-01,MAPC_Region,Nonstore Retailers,5266
+2011-01-01,MAPC_Region,Air Transportation,6448
+2011-01-01,MAPC_Region,Truck Transportation,4320
+2011-01-01,MAPC_Region,Transit and Ground Passenger Transport,12951
+2011-01-01,MAPC_Region,Scenic and Sightseeing Transportation,945
+2011-01-01,MAPC_Region,Support Activities for Transportation,5020
+2011-01-01,MAPC_Region,Couriers and Messengers,2263
+2011-01-01,MAPC_Region,Warehousing and Storage,624
+2011-01-01,MAPC_Region,Publishing Industries,26702
+2011-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1561
+2011-01-01,MAPC_Region,Broadcasting (except Internet),2340
+2011-01-01,MAPC_Region,Telecommunications,8860
+2011-01-01,MAPC_Region,Credit Intermediation & Related Activity,32408
+2011-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",3005
+2011-01-01,MAPC_Region,Other Information Services,6526
+2011-01-01,MAPC_Region,Financial Investment & Related Activity,37290
+2011-01-01,MAPC_Region,Insurance Carriers & Related Activities,39751
+2011-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1080
+2011-01-01,MAPC_Region,Real Estate,21314
+2011-01-01,MAPC_Region,Rental and Leasing Services,4661
+2011-01-01,MAPC_Region,Professional and Technical Services,194495
+2011-01-01,MAPC_Region,Management of Companies and Enterprises,34627
+2011-01-01,MAPC_Region,Administrative and Support Services,92068
+2011-01-01,MAPC_Region,Waste Management and Remediation Service,2812
+2011-01-01,MAPC_Region,Educational Services,156303
+2010-01-01,MAPC_Region,Ambulatory Health Care Services,78974
+2010-01-01,MAPC_Region,Hospitals,87987
+2010-01-01,MAPC_Region,Nursing and Residential Care Facilities,39132
+2010-01-01,MAPC_Region,Social Assistance,38480
+2010-01-01,MAPC_Region,Performing Arts and Spectator Sports,6163
+2010-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2925
+2010-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",18438
+2010-01-01,MAPC_Region,Accommodation,18215
+2010-01-01,MAPC_Region,Food Services and Drinking Places,121265
+2010-01-01,MAPC_Region,Repair and Maintenance,10975
+2010-01-01,MAPC_Region,Personal and Laundry Services,22432
+2010-01-01,MAPC_Region,Membership Organizations & Associations,22190
+2010-01-01,MAPC_Region,Private Households,14473
+2010-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5967
+2010-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",14850
+2010-01-01,MAPC_Region,Administration of Environmental Programs,2912
+2010-01-01,MAPC_Region,Administration of Human Resource Program,137
+2010-01-01,MAPC_Region,Community and Housing Program Admin,2008
+2010-01-01,MAPC_Region,Administration of Economic Programs,6423
+2010-01-01,MAPC_Region,National Security & International Affair,681
+2010-01-01,MAPC_Region,Goods-Producing Domain,168306
+2010-01-01,MAPC_Region,Specialty Trade Contractors,36481
+2010-01-01,MAPC_Region,Service-Providing Domain,1626210
+2010-01-01,MAPC_Region,Crop Production,346
+2010-01-01,MAPC_Region,"Fishing, Hunting and Trapping",146
+2010-01-01,MAPC_Region,Agriculture & Forestry Support Activity,89
+2010-01-01,MAPC_Region,Utilities,4408
+2010-01-01,MAPC_Region,Construction of Buildings,12321
+2010-01-01,MAPC_Region,Heavy and Civil Engineering Construction,6432
+2010-01-01,MAPC_Region,Food Manufacturing,9296
+2010-01-01,MAPC_Region,Textile Product Mills,208
+2010-01-01,MAPC_Region,Apparel Manufacturing,612
+2010-01-01,MAPC_Region,Wood Product Manufacturing,26
+2010-01-01,MAPC_Region,Paper Manufacturing,378
+2010-01-01,MAPC_Region,Printing and Related Support Activities,4405
+2010-01-01,MAPC_Region,Chemical Manufacturing,6165
+2010-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7626
+2010-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,778
+2010-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,245
+2010-01-01,MAPC_Region,Primary Metal Manufacturing,105
+2010-01-01,MAPC_Region,Machinery Manufacturing,3546
+2010-01-01,MAPC_Region,Computer and Electronic Product Mfg,22826
+2010-01-01,MAPC_Region,Electrical Equipment and Appliances,1207
+2010-01-01,MAPC_Region,Transportation Equipment Manufacturing,438
+2010-01-01,MAPC_Region,Furniture and Related Product Mfg,486
+2010-01-01,MAPC_Region,Miscellaneous Manufacturing,4172
+2010-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",30582
+2010-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5312
+2010-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",18581
+2010-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10271
+2010-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,14307
+2010-01-01,MAPC_Region,Electronics and Appliance Stores,4856
+2010-01-01,MAPC_Region,Building Material & Garden Supply Stores,7984
+2010-01-01,MAPC_Region,Food and Beverage Stores,44255
+2010-01-01,MAPC_Region,Health and Personal Care Stores,12988
+2010-01-01,MAPC_Region,Gasoline Stations,4231
+2010-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,24535
+2010-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8454
+2010-01-01,MAPC_Region,Air Transportation,6198
+2010-01-01,MAPC_Region,General Merchandise Stores,16351
+2010-01-01,MAPC_Region,Miscellaneous Store Retailers,9091
+2010-01-01,MAPC_Region,Nonstore Retailers,4818
+2010-01-01,MAPC_Region,Water Transportation,13
+2010-01-01,MAPC_Region,Truck Transportation,4409
+2010-01-01,MAPC_Region,Transit and Ground Passenger Transport,12426
+2010-01-01,MAPC_Region,Scenic and Sightseeing Transportation,1023
+2010-01-01,MAPC_Region,Support Activities for Transportation,5057
+2010-01-01,MAPC_Region,Couriers and Messengers,2527
+2010-01-01,MAPC_Region,Warehousing and Storage,643
+2010-01-01,MAPC_Region,Publishing Industries,26571
+2010-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1563
+2010-01-01,MAPC_Region,Broadcasting (except Internet),2417
+2010-01-01,MAPC_Region,Telecommunications,10525
+2010-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",3323
+2010-01-01,MAPC_Region,Credit Intermediation & Related Activity,32752
+2010-01-01,MAPC_Region,Other Information Services,6210
+2010-01-01,MAPC_Region,Financial Investment & Related Activity,37481
+2010-01-01,MAPC_Region,Insurance Carriers & Related Activities,39402
+2010-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1133
+2010-01-01,MAPC_Region,Real Estate,20871
+2010-01-01,MAPC_Region,Rental and Leasing Services,4938
+2010-01-01,MAPC_Region,Professional and Technical Services,187475
+2010-01-01,MAPC_Region,Management of Companies and Enterprises,34366
+2010-01-01,MAPC_Region,Administrative and Support Services,90044
+2010-01-01,MAPC_Region,Waste Management and Remediation Service,2770
+2010-01-01,MAPC_Region,Educational Services,153163
+2009-01-01,MAPC_Region,Hospitals,84970
+2009-01-01,MAPC_Region,Nursing and Residential Care Facilities,39187
+2009-01-01,MAPC_Region,Social Assistance,37244
+2009-01-01,MAPC_Region,Performing Arts and Spectator Sports,5739
+2009-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2854
+2009-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",17763
+2009-01-01,MAPC_Region,Accommodation,18597
+2009-01-01,MAPC_Region,Food Services and Drinking Places,116105
+2009-01-01,MAPC_Region,Repair and Maintenance,10957
+2009-01-01,MAPC_Region,Personal and Laundry Services,22350
+2009-01-01,MAPC_Region,Membership Organizations & Associations,21863
+2009-01-01,MAPC_Region,Private Households,12766
+2009-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5467
+2009-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13919
+2009-01-01,MAPC_Region,Administration of Human Resource Program,138
+2009-01-01,MAPC_Region,Administration of Environmental Programs,3025
+2009-01-01,MAPC_Region,Community and Housing Program Admin,1934
+2009-01-01,MAPC_Region,National Security & International Affair,773
+2009-01-01,MAPC_Region,Administration of Economic Programs,6184
+2009-01-01,MAPC_Region,Ambulatory Health Care Services,77856
+2009-01-01,MAPC_Region,Service-Providing Domain,1607632
+2009-01-01,MAPC_Region,Goods-Producing Domain,173591
+2009-01-01,MAPC_Region,Crop Production,297
+2009-01-01,MAPC_Region,"Fishing, Hunting and Trapping",202
+2009-01-01,MAPC_Region,Agriculture & Forestry Support Activity,68
+2009-01-01,MAPC_Region,Construction of Buildings,13013
+2009-01-01,MAPC_Region,Specialty Trade Contractors,37501
+2009-01-01,MAPC_Region,Utilities,4366
+2009-01-01,MAPC_Region,Heavy and Civil Engineering Construction,6636
+2009-01-01,MAPC_Region,Food Manufacturing,8683
+2009-01-01,MAPC_Region,Textile Product Mills,219
+2009-01-01,MAPC_Region,Apparel Manufacturing,626
+2009-01-01,MAPC_Region,Leather and Allied Product Manufacturing,85
+2009-01-01,MAPC_Region,Wood Product Manufacturing,24
+2009-01-01,MAPC_Region,Paper Manufacturing,679
+2009-01-01,MAPC_Region,Printing and Related Support Activities,4601
+2009-01-01,MAPC_Region,Chemical Manufacturing,7112
+2009-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,792
+2009-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,7629
+2009-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,291
+2009-01-01,MAPC_Region,Machinery Manufacturing,4280
+2009-01-01,MAPC_Region,Computer and Electronic Product Mfg,24373
+2009-01-01,MAPC_Region,Electrical Equipment and Appliances,1244
+2009-01-01,MAPC_Region,Transportation Equipment Manufacturing,443
+2009-01-01,MAPC_Region,Furniture and Related Product Mfg,571
+2009-01-01,MAPC_Region,Miscellaneous Manufacturing,3868
+2009-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",33597
+2009-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",19332
+2009-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10314
+2009-01-01,MAPC_Region,Furniture and Home Furnishings Stores,5252
+2009-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,13914
+2009-01-01,MAPC_Region,Electronics and Appliance Stores,4678
+2009-01-01,MAPC_Region,Building Material & Garden Supply Stores,8193
+2009-01-01,MAPC_Region,Food and Beverage Stores,43730
+2009-01-01,MAPC_Region,Health and Personal Care Stores,13106
+2009-01-01,MAPC_Region,Gasoline Stations,4147
+2009-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23713
+2009-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8406
+2009-01-01,MAPC_Region,Scenic and Sightseeing Transportation,989
+2009-01-01,MAPC_Region,General Merchandise Stores,15241
+2009-01-01,MAPC_Region,Miscellaneous Store Retailers,9061
+2009-01-01,MAPC_Region,Nonstore Retailers,4618
+2009-01-01,MAPC_Region,Air Transportation,6423
+2009-01-01,MAPC_Region,Truck Transportation,4343
+2009-01-01,MAPC_Region,Water Transportation,12
+2009-01-01,MAPC_Region,Transit and Ground Passenger Transport,3679
+2009-01-01,MAPC_Region,Support Activities for Transportation,4991
+2009-01-01,MAPC_Region,Couriers and Messengers,2467
+2009-01-01,MAPC_Region,Warehousing and Storage,633
+2009-01-01,MAPC_Region,Publishing Industries,25967
+2009-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1662
+2009-01-01,MAPC_Region,Broadcasting (except Internet),2862
+2009-01-01,MAPC_Region,Telecommunications,10218
+2009-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",3329
+2009-01-01,MAPC_Region,Other Information Services,5873
+2009-01-01,MAPC_Region,Credit Intermediation & Related Activity,35035
+2009-01-01,MAPC_Region,Financial Investment & Related Activity,37749
+2009-01-01,MAPC_Region,Insurance Carriers & Related Activities,40269
+2009-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1200
+2009-01-01,MAPC_Region,Management of Companies and Enterprises,34666
+2009-01-01,MAPC_Region,Real Estate,20742
+2009-01-01,MAPC_Region,Rental and Leasing Services,5158
+2009-01-01,MAPC_Region,Professional and Technical Services,190500
+2009-01-01,MAPC_Region,Administrative and Support Services,88057
+2009-01-01,MAPC_Region,Waste Management and Remediation Service,2833
+2009-01-01,MAPC_Region,Educational Services,150721
+2008-01-01,MAPC_Region,Ambulatory Health Care Services,74233
+2008-01-01,MAPC_Region,Hospitals,84632
+2008-01-01,MAPC_Region,Nursing and Residential Care Facilities,37500
+2008-01-01,MAPC_Region,Social Assistance,37235
+2008-01-01,MAPC_Region,Performing Arts and Spectator Sports,5888
+2008-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2945
+2008-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",18172
+2008-01-01,MAPC_Region,Accommodation,19900
+2008-01-01,MAPC_Region,Food Services and Drinking Places,117921
+2008-01-01,MAPC_Region,Repair and Maintenance,11479
+2008-01-01,MAPC_Region,Personal and Laundry Services,22928
+2008-01-01,MAPC_Region,Membership Organizations & Associations,22061
+2008-01-01,MAPC_Region,Private Households,12181
+2008-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5396
+2008-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",14233
+2008-01-01,MAPC_Region,Administration of Human Resource Program,134
+2008-01-01,MAPC_Region,Administration of Environmental Programs,3187
+2008-01-01,MAPC_Region,Community and Housing Program Admin,1900
+2008-01-01,MAPC_Region,Administration of Economic Programs,5860
+2008-01-01,MAPC_Region,National Security & International Affair,814
+2008-01-01,MAPC_Region,Service-Providing Domain,1645480
+2008-01-01,MAPC_Region,Goods-Producing Domain,199051
+2008-01-01,MAPC_Region,Crop Production,39
+2008-01-01,MAPC_Region,"Fishing, Hunting and Trapping",211
+2008-01-01,MAPC_Region,Agriculture & Forestry Support Activity,75
+2008-01-01,MAPC_Region,Utilities,4255
+2008-01-01,MAPC_Region,Construction of Buildings,15773
+2008-01-01,MAPC_Region,Specialty Trade Contractors,45746
+2008-01-01,MAPC_Region,Heavy and Civil Engineering Construction,7283
+2008-01-01,MAPC_Region,Food Manufacturing,8884
+2008-01-01,MAPC_Region,Textile Product Mills,237
+2008-01-01,MAPC_Region,Apparel Manufacturing,761
+2008-01-01,MAPC_Region,Leather and Allied Product Manufacturing,91
+2008-01-01,MAPC_Region,Wood Product Manufacturing,201
+2008-01-01,MAPC_Region,Paper Manufacturing,675
+2008-01-01,MAPC_Region,Printing and Related Support Activities,5731
+2008-01-01,MAPC_Region,Chemical Manufacturing,7528
+2008-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,684
+2008-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,403
+2008-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9046
+2008-01-01,MAPC_Region,Machinery Manufacturing,5739
+2008-01-01,MAPC_Region,Computer and Electronic Product Mfg,28613
+2008-01-01,MAPC_Region,Electrical Equipment and Appliances,1837
+2008-01-01,MAPC_Region,Transportation Equipment Manufacturing,809
+2008-01-01,MAPC_Region,Furniture and Related Product Mfg,732
+2008-01-01,MAPC_Region,Miscellaneous Manufacturing,4016
+2008-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",36788
+2008-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",22344
+2008-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10629
+2008-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,15225
+2008-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6523
+2008-01-01,MAPC_Region,Electronics and Appliance Stores,6502
+2008-01-01,MAPC_Region,Building Material & Garden Supply Stores,8930
+2008-01-01,MAPC_Region,Food and Beverage Stores,42816
+2008-01-01,MAPC_Region,Health and Personal Care Stores,13459
+2008-01-01,MAPC_Region,Gasoline Stations,4142
+2008-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,25630
+2008-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,8863
+2008-01-01,MAPC_Region,Telecommunications,10466
+2008-01-01,MAPC_Region,General Merchandise Stores,14795
+2008-01-01,MAPC_Region,Miscellaneous Store Retailers,9589
+2008-01-01,MAPC_Region,Nonstore Retailers,4666
+2008-01-01,MAPC_Region,Air Transportation,7102
+2008-01-01,MAPC_Region,Scenic and Sightseeing Transportation,967
+2008-01-01,MAPC_Region,Truck Transportation,5033
+2008-01-01,MAPC_Region,Transit and Ground Passenger Transport,12313
+2008-01-01,MAPC_Region,Support Activities for Transportation,5216
+2008-01-01,MAPC_Region,Couriers and Messengers,2714
+2008-01-01,MAPC_Region,Warehousing and Storage,654
+2008-01-01,MAPC_Region,Publishing Industries,26313
+2008-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1931
+2008-01-01,MAPC_Region,Broadcasting (except Internet),3233
+2008-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",3595
+2008-01-01,MAPC_Region,Other Information Services,6022
+2008-01-01,MAPC_Region,Credit Intermediation & Related Activity,35538
+2008-01-01,MAPC_Region,Financial Investment & Related Activity,41123
+2008-01-01,MAPC_Region,Insurance Carriers & Related Activities,40605
+2008-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1272
+2008-01-01,MAPC_Region,Real Estate,21239
+2008-01-01,MAPC_Region,Rental and Leasing Services,5650
+2008-01-01,MAPC_Region,Professional and Technical Services,196599
+2008-01-01,MAPC_Region,Management of Companies and Enterprises,37370
+2008-01-01,MAPC_Region,Administrative and Support Services,99437
+2008-01-01,MAPC_Region,Waste Management and Remediation Service,2523
+2008-01-01,MAPC_Region,Educational Services,146826
+2007-01-01,MAPC_Region,Social Assistance,36496
+2007-01-01,MAPC_Region,Hospitals,84136
+2007-01-01,MAPC_Region,Ambulatory Health Care Services,71886
+2007-01-01,MAPC_Region,Nursing and Residential Care Facilities,36627
+2007-01-01,MAPC_Region,Performing Arts and Spectator Sports,5442
+2007-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2946
+2007-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",17578
+2007-01-01,MAPC_Region,Accommodation,19551
+2007-01-01,MAPC_Region,Food Services and Drinking Places,115552
+2007-01-01,MAPC_Region,Repair and Maintenance,11840
+2007-01-01,MAPC_Region,Personal and Laundry Services,22198
+2007-01-01,MAPC_Region,Membership Organizations & Associations,21138
+2007-01-01,MAPC_Region,Private Households,10292
+2007-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5411
+2007-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13665
+2007-01-01,MAPC_Region,Administration of Economic Programs,5595
+2007-01-01,MAPC_Region,Administration of Human Resource Program,135
+2007-01-01,MAPC_Region,Administration of Environmental Programs,3223
+2007-01-01,MAPC_Region,Community and Housing Program Admin,1888
+2007-01-01,MAPC_Region,National Security & International Affair,805
+2007-01-01,MAPC_Region,Service-Providing Domain,1624987
+2007-01-01,MAPC_Region,Goods-Producing Domain,205269
+2007-01-01,MAPC_Region,Crop Production,62
+2007-01-01,MAPC_Region,"Fishing, Hunting and Trapping",209
+2007-01-01,MAPC_Region,Agriculture & Forestry Support Activity,57
+2007-01-01,MAPC_Region,Utilities,4126
+2007-01-01,MAPC_Region,Construction of Buildings,16129
+2007-01-01,MAPC_Region,Specialty Trade Contractors,46835
+2007-01-01,MAPC_Region,Heavy and Civil Engineering Construction,7745
+2007-01-01,MAPC_Region,Food Manufacturing,9398
+2007-01-01,MAPC_Region,Textile Product Mills,238
+2007-01-01,MAPC_Region,Apparel Manufacturing,725
+2007-01-01,MAPC_Region,Leather and Allied Product Manufacturing,66
+2007-01-01,MAPC_Region,Wood Product Manufacturing,290
+2007-01-01,MAPC_Region,Paper Manufacturing,866
+2007-01-01,MAPC_Region,Printing and Related Support Activities,6019
+2007-01-01,MAPC_Region,Chemical Manufacturing,7121
+2007-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,668
+2007-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,346
+2007-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9227
+2007-01-01,MAPC_Region,Machinery Manufacturing,6368
+2007-01-01,MAPC_Region,Computer and Electronic Product Mfg,28150
+2007-01-01,MAPC_Region,Electrical Equipment and Appliances,1790
+2007-01-01,MAPC_Region,Transportation Equipment Manufacturing,855
+2007-01-01,MAPC_Region,Furniture and Related Product Mfg,897
+2007-01-01,MAPC_Region,Miscellaneous Manufacturing,4087
+2007-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",38172
+2007-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",22258
+2007-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10300
+2007-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,15637
+2007-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6334
+2007-01-01,MAPC_Region,Electronics and Appliance Stores,6880
+2007-01-01,MAPC_Region,Building Material & Garden Supply Stores,9343
+2007-01-01,MAPC_Region,Food and Beverage Stores,41089
+2007-01-01,MAPC_Region,Health and Personal Care Stores,13349
+2007-01-01,MAPC_Region,Gasoline Stations,4336
+2007-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,24365
+2007-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,9314
+2007-01-01,MAPC_Region,General Merchandise Stores,14726
+2007-01-01,MAPC_Region,Miscellaneous Store Retailers,9455
+2007-01-01,MAPC_Region,Nonstore Retailers,4348
+2007-01-01,MAPC_Region,Air Transportation,7013
+2007-01-01,MAPC_Region,Water Transportation,12
+2007-01-01,MAPC_Region,Truck Transportation,5243
+2007-01-01,MAPC_Region,Scenic and Sightseeing Transportation,834
+2007-01-01,MAPC_Region,Transit and Ground Passenger Transport,4064
+2007-01-01,MAPC_Region,Telecommunications,10084
+2007-01-01,MAPC_Region,Support Activities for Transportation,5434
+2007-01-01,MAPC_Region,Couriers and Messengers,2672
+2007-01-01,MAPC_Region,Warehousing and Storage,1495
+2007-01-01,MAPC_Region,Publishing Industries,25934
+2007-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1611
+2007-01-01,MAPC_Region,Broadcasting (except Internet),2975
+2007-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",4214
+2007-01-01,MAPC_Region,Other Information Services,5641
+2007-01-01,MAPC_Region,Credit Intermediation & Related Activity,36305
+2007-01-01,MAPC_Region,Financial Investment & Related Activity,41491
+2007-01-01,MAPC_Region,Insurance Carriers & Related Activities,42002
+2007-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1536
+2007-01-01,MAPC_Region,Real Estate,21230
+2007-01-01,MAPC_Region,Rental and Leasing Services,6058
+2007-01-01,MAPC_Region,Professional and Technical Services,186102
+2007-01-01,MAPC_Region,Management of Companies and Enterprises,36659
+2007-01-01,MAPC_Region,Administrative and Support Services,102015
+2007-01-01,MAPC_Region,Waste Management and Remediation Service,2935
+2007-01-01,MAPC_Region,Educational Services,144947
+2006-01-01,MAPC_Region,Hospitals,79521
+2006-01-01,MAPC_Region,Social Assistance,35017
+2006-01-01,MAPC_Region,Nursing and Residential Care Facilities,36825
+2006-01-01,MAPC_Region,Performing Arts and Spectator Sports,4704
+2006-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2855
+2006-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",16913
+2006-01-01,MAPC_Region,Accommodation,18930
+2006-01-01,MAPC_Region,Food Services and Drinking Places,112152
+2006-01-01,MAPC_Region,Repair and Maintenance,12100
+2006-01-01,MAPC_Region,Personal and Laundry Services,21625
+2006-01-01,MAPC_Region,Membership Organizations & Associations,20422
+2006-01-01,MAPC_Region,Private Households,8984
+2006-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5402
+2006-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13533
+2006-01-01,MAPC_Region,Administration of Human Resource Program,147
+2006-01-01,MAPC_Region,Administration of Environmental Programs,3355
+2006-01-01,MAPC_Region,Administration of Economic Programs,5614
+2006-01-01,MAPC_Region,Community and Housing Program Admin,1893
+2006-01-01,MAPC_Region,National Security & International Affair,2170
+2006-01-01,MAPC_Region,Textile Mills,93
+2006-01-01,MAPC_Region,Service-Providing Domain,1590244
+2006-01-01,MAPC_Region,Goods-Producing Domain,202668
+2006-01-01,MAPC_Region,Crop Production,59
+2006-01-01,MAPC_Region,"Fishing, Hunting and Trapping",264
+2006-01-01,MAPC_Region,Agriculture & Forestry Support Activity,41
+2006-01-01,MAPC_Region,Mining (except Oil and Gas),35
+2006-01-01,MAPC_Region,Utilities,4043
+2006-01-01,MAPC_Region,Construction of Buildings,16732
+2006-01-01,MAPC_Region,Heavy and Civil Engineering Construction,8022
+2006-01-01,MAPC_Region,Specialty Trade Contractors,47204
+2006-01-01,MAPC_Region,Ambulatory Health Care Services,69093
+2006-01-01,MAPC_Region,Food Manufacturing,9374
+2006-01-01,MAPC_Region,Textile Product Mills,160
+2006-01-01,MAPC_Region,Apparel Manufacturing,696
+2006-01-01,MAPC_Region,Leather and Allied Product Manufacturing,189
+2006-01-01,MAPC_Region,Wood Product Manufacturing,505
+2006-01-01,MAPC_Region,Paper Manufacturing,993
+2006-01-01,MAPC_Region,Printing and Related Support Activities,6432
+2006-01-01,MAPC_Region,Chemical Manufacturing,6836
+2006-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,821
+2006-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,366
+2006-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9300
+2006-01-01,MAPC_Region,Machinery Manufacturing,5476
+2006-01-01,MAPC_Region,Computer and Electronic Product Mfg,28235
+2006-01-01,MAPC_Region,Electrical Equipment and Appliances,2065
+2006-01-01,MAPC_Region,Transportation Equipment Manufacturing,875
+2006-01-01,MAPC_Region,Furniture and Related Product Mfg,807
+2006-01-01,MAPC_Region,Miscellaneous Manufacturing,4296
+2006-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",38386
+2006-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",21944
+2006-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10056
+2006-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16198
+2006-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6876
+2006-01-01,MAPC_Region,Building Material & Garden Supply Stores,9982
+2006-01-01,MAPC_Region,Electronics and Appliance Stores,7264
+2006-01-01,MAPC_Region,Food and Beverage Stores,40842
+2006-01-01,MAPC_Region,Health and Personal Care Stores,13125
+2006-01-01,MAPC_Region,Gasoline Stations,4347
+2006-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23520
+2006-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,9309
+2006-01-01,MAPC_Region,General Merchandise Stores,15183
+2006-01-01,MAPC_Region,Miscellaneous Store Retailers,9854
+2006-01-01,MAPC_Region,Nonstore Retailers,4030
+2006-01-01,MAPC_Region,Air Transportation,6933
+2006-01-01,MAPC_Region,Water Transportation,17
+2006-01-01,MAPC_Region,Truck Transportation,5300
+2006-01-01,MAPC_Region,Transit and Ground Passenger Transport,3300
+2006-01-01,MAPC_Region,Scenic and Sightseeing Transportation,788
+2006-01-01,MAPC_Region,Support Activities for Transportation,5454
+2006-01-01,MAPC_Region,Couriers and Messengers,2376
+2006-01-01,MAPC_Region,Warehousing and Storage,1664
+2006-01-01,MAPC_Region,Telecommunications,9580
+2006-01-01,MAPC_Region,Publishing Industries,28048
+2006-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1506
+2006-01-01,MAPC_Region,Broadcasting (except Internet),3256
+2006-01-01,MAPC_Region,Internet Publishing and Broadcasting,1526
+2006-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",6715
+2006-01-01,MAPC_Region,Other Information Services,1385
+2006-01-01,MAPC_Region,Credit Intermediation & Related Activity,35058
+2006-01-01,MAPC_Region,Insurance Carriers & Related Activities,41726
+2006-01-01,MAPC_Region,Financial Investment & Related Activity,38994
+2006-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",2168
+2006-01-01,MAPC_Region,Real Estate,21304
+2006-01-01,MAPC_Region,Rental and Leasing Services,6325
+2006-01-01,MAPC_Region,"Lessors, Nonfinancial Intangible Assets",19
+2006-01-01,MAPC_Region,Professional and Technical Services,180928
+2006-01-01,MAPC_Region,Management of Companies and Enterprises,35645
+2006-01-01,MAPC_Region,Administrative and Support Services,97903
+2006-01-01,MAPC_Region,Waste Management and Remediation Service,2562
+2006-01-01,MAPC_Region,Educational Services,143913
+2005-01-01,MAPC_Region,Accommodation,18331
+2005-01-01,MAPC_Region,Hospitals,77155
+2005-01-01,MAPC_Region,Social Assistance,34288
+2005-01-01,MAPC_Region,Nursing and Residential Care Facilities,36645
+2005-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2759
+2005-01-01,MAPC_Region,Performing Arts and Spectator Sports,3869
+2005-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",16624
+2005-01-01,MAPC_Region,Food Services and Drinking Places,110694
+2005-01-01,MAPC_Region,Repair and Maintenance,12360
+2005-01-01,MAPC_Region,Personal and Laundry Services,21341
+2005-01-01,MAPC_Region,Membership Organizations & Associations,19551
+2005-01-01,MAPC_Region,Private Households,8471
+2005-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5391
+2005-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13383
+2005-01-01,MAPC_Region,Administration of Human Resource Program,169
+2005-01-01,MAPC_Region,Administration of Environmental Programs,3293
+2005-01-01,MAPC_Region,Community and Housing Program Admin,1937
+2005-01-01,MAPC_Region,Administration of Economic Programs,5634
+2005-01-01,MAPC_Region,National Security & International Affair,828
+2005-01-01,MAPC_Region,Textile Mills,127
+2005-01-01,MAPC_Region,Goods-Producing Domain,205380
+2005-01-01,MAPC_Region,Service-Providing Domain,1562243
+2005-01-01,MAPC_Region,Mining (except Oil and Gas),35
+2005-01-01,MAPC_Region,Crop Production,70
+2005-01-01,MAPC_Region,"Fishing, Hunting and Trapping",291
+2005-01-01,MAPC_Region,Agriculture & Forestry Support Activity,66
+2005-01-01,MAPC_Region,Utilities,3746
+2005-01-01,MAPC_Region,Construction of Buildings,17260
+2005-01-01,MAPC_Region,Heavy and Civil Engineering Construction,8111
+2005-01-01,MAPC_Region,Specialty Trade Contractors,45938
+2005-01-01,MAPC_Region,Food Manufacturing,9289
+2005-01-01,MAPC_Region,Textile Product Mills,196
+2005-01-01,MAPC_Region,Apparel Manufacturing,769
+2005-01-01,MAPC_Region,Leather and Allied Product Manufacturing,300
+2005-01-01,MAPC_Region,Wood Product Manufacturing,475
+2005-01-01,MAPC_Region,Paper Manufacturing,1093
+2005-01-01,MAPC_Region,Printing and Related Support Activities,6559
+2005-01-01,MAPC_Region,Petroleum & Coal Products Manufacturing,204
+2005-01-01,MAPC_Region,Chemical Manufacturing,7081
+2005-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,1268
+2005-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,401
+2005-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9490
+2005-01-01,MAPC_Region,Machinery Manufacturing,6086
+2005-01-01,MAPC_Region,Computer and Electronic Product Mfg,30002
+2005-01-01,MAPC_Region,Electrical Equipment and Appliances,1914
+2005-01-01,MAPC_Region,Transportation Equipment Manufacturing,906
+2005-01-01,MAPC_Region,Furniture and Related Product Mfg,1097
+2005-01-01,MAPC_Region,Miscellaneous Manufacturing,4840
+2005-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",36516
+2005-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",20796
+2005-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,9089
+2005-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,17129
+2005-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6963
+2005-01-01,MAPC_Region,Electronics and Appliance Stores,7076
+2005-01-01,MAPC_Region,Building Material & Garden Supply Stores,10100
+2005-01-01,MAPC_Region,Food and Beverage Stores,40653
+2005-01-01,MAPC_Region,Health and Personal Care Stores,13072
+2005-01-01,MAPC_Region,Gasoline Stations,4400
+2005-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23972
+2005-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,9257
+2005-01-01,MAPC_Region,General Merchandise Stores,16008
+2005-01-01,MAPC_Region,Ambulatory Health Care Services,65492
+2005-01-01,MAPC_Region,Miscellaneous Store Retailers,10154
+2005-01-01,MAPC_Region,Nonstore Retailers,3929
+2005-01-01,MAPC_Region,Air Transportation,7644
+2005-01-01,MAPC_Region,Water Transportation,23
+2005-01-01,MAPC_Region,Truck Transportation,5379
+2005-01-01,MAPC_Region,Transit and Ground Passenger Transport,3599
+2005-01-01,MAPC_Region,Scenic and Sightseeing Transportation,790
+2005-01-01,MAPC_Region,Support Activities for Transportation,5299
+2005-01-01,MAPC_Region,Couriers and Messengers,2630
+2005-01-01,MAPC_Region,Warehousing and Storage,2162
+2005-01-01,MAPC_Region,Publishing Industries,27183
+2005-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1478
+2005-01-01,MAPC_Region,Telecommunications,9223
+2005-01-01,MAPC_Region,Broadcasting (except Internet),3262
+2005-01-01,MAPC_Region,Internet Publishing and Broadcasting,1146
+2005-01-01,MAPC_Region,Real Estate,21503
+2005-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",6702
+2005-01-01,MAPC_Region,Other Information Services,1424
+2005-01-01,MAPC_Region,Credit Intermediation & Related Activity,34717
+2005-01-01,MAPC_Region,Financial Investment & Related Activity,37328
+2005-01-01,MAPC_Region,Insurance Carriers & Related Activities,38224
+2005-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",2047
+2005-01-01,MAPC_Region,Rental and Leasing Services,6691
+2005-01-01,MAPC_Region,Professional and Technical Services,173140
+2005-01-01,MAPC_Region,Management of Companies and Enterprises,38846
+2005-01-01,MAPC_Region,Waste Management and Remediation Service,2326
+2005-01-01,MAPC_Region,Administrative and Support Services,94778
+2005-01-01,MAPC_Region,Educational Services,136940
+2004-01-01,MAPC_Region,Hospitals,75547
+2004-01-01,MAPC_Region,Nursing and Residential Care Facilities,36027
+2004-01-01,MAPC_Region,Social Assistance,33192
+2004-01-01,MAPC_Region,Accommodation,17589
+2004-01-01,MAPC_Region,Performing Arts and Spectator Sports,3811
+2004-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2777
+2004-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",17042
+2004-01-01,MAPC_Region,Food Services and Drinking Places,109696
+2004-01-01,MAPC_Region,Personal and Laundry Services,21031
+2004-01-01,MAPC_Region,Repair and Maintenance,12945
+2004-01-01,MAPC_Region,Textile Mills,127
+2004-01-01,MAPC_Region,Membership Organizations & Associations,19097
+2004-01-01,MAPC_Region,Private Households,7931
+2004-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5378
+2004-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",13207
+2004-01-01,MAPC_Region,Administration of Human Resource Program,170
+2004-01-01,MAPC_Region,Administration of Environmental Programs,2839
+2004-01-01,MAPC_Region,Community and Housing Program Admin,2002
+2004-01-01,MAPC_Region,Administration of Economic Programs,5611
+2004-01-01,MAPC_Region,National Security & International Affair,914
+2004-01-01,MAPC_Region,Goods-Producing Domain,209002
+2004-01-01,MAPC_Region,Service-Providing Domain,1544869
+2004-01-01,MAPC_Region,Crop Production,70
+2004-01-01,MAPC_Region,"Fishing, Hunting and Trapping",298
+2004-01-01,MAPC_Region,Mining (except Oil and Gas),31
+2004-01-01,MAPC_Region,Agriculture & Forestry Support Activity,47
+2004-01-01,MAPC_Region,Utilities,3906
+2004-01-01,MAPC_Region,Construction of Buildings,16931
+2004-01-01,MAPC_Region,Heavy and Civil Engineering Construction,6830
+2004-01-01,MAPC_Region,Specialty Trade Contractors,45722
+2004-01-01,MAPC_Region,Food Manufacturing,8615
+2004-01-01,MAPC_Region,Textile Product Mills,204
+2004-01-01,MAPC_Region,Apparel Manufacturing,881
+2004-01-01,MAPC_Region,Leather and Allied Product Manufacturing,312
+2004-01-01,MAPC_Region,Wood Product Manufacturing,534
+2004-01-01,MAPC_Region,Paper Manufacturing,1340
+2004-01-01,MAPC_Region,Printing and Related Support Activities,6754
+2004-01-01,MAPC_Region,Petroleum & Coal Products Manufacturing,190
+2004-01-01,MAPC_Region,Chemical Manufacturing,6069
+2004-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,1444
+2004-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,269
+2004-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9795
+2004-01-01,MAPC_Region,Computer and Electronic Product Mfg,32673
+2004-01-01,MAPC_Region,Machinery Manufacturing,5332
+2004-01-01,MAPC_Region,Electrical Equipment and Appliances,1480
+2004-01-01,MAPC_Region,Transportation Equipment Manufacturing,948
+2004-01-01,MAPC_Region,Furniture and Related Product Mfg,951
+2004-01-01,MAPC_Region,Miscellaneous Manufacturing,5652
+2004-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",36753
+2004-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",19793
+2004-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10970
+2004-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,17070
+2004-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6925
+2004-01-01,MAPC_Region,Electronics and Appliance Stores,6743
+2004-01-01,MAPC_Region,Building Material & Garden Supply Stores,9729
+2004-01-01,MAPC_Region,Food and Beverage Stores,40641
+2004-01-01,MAPC_Region,Health and Personal Care Stores,12839
+2004-01-01,MAPC_Region,Gasoline Stations,4529
+2004-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23659
+2004-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,9465
+2004-01-01,MAPC_Region,General Merchandise Stores,15382
+2004-01-01,MAPC_Region,Miscellaneous Store Retailers,10704
+2004-01-01,MAPC_Region,Nonstore Retailers,3508
+2004-01-01,MAPC_Region,Air Transportation,8158
+2004-01-01,MAPC_Region,Truck Transportation,5528
+2004-01-01,MAPC_Region,Transit and Ground Passenger Transport,3446
+2004-01-01,MAPC_Region,Scenic and Sightseeing Transportation,936
+2004-01-01,MAPC_Region,Couriers and Messengers,2567
+2004-01-01,MAPC_Region,Support Activities for Transportation,5092
+2004-01-01,MAPC_Region,Warehousing and Storage,2173
+2004-01-01,MAPC_Region,Publishing Industries,25664
+2004-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1656
+2004-01-01,MAPC_Region,Broadcasting (except Internet),3666
+2004-01-01,MAPC_Region,Telecommunications,8921
+2004-01-01,MAPC_Region,Internet Publishing and Broadcasting,1427
+2004-01-01,MAPC_Region,Ambulatory Health Care Services,64576
+2004-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",5664
+2004-01-01,MAPC_Region,Other Information Services,1304
+2004-01-01,MAPC_Region,Credit Intermediation & Related Activity,34207
+2004-01-01,MAPC_Region,Real Estate,20682
+2004-01-01,MAPC_Region,Financial Investment & Related Activity,36147
+2004-01-01,MAPC_Region,Insurance Carriers & Related Activities,36890
+2004-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1917
+2004-01-01,MAPC_Region,Rental and Leasing Services,6993
+2004-01-01,MAPC_Region,"Lessors, Nonfinancial Intangible Assets",35
+2004-01-01,MAPC_Region,Professional and Technical Services,168324
+2004-01-01,MAPC_Region,Management of Companies and Enterprises,36855
+2004-01-01,MAPC_Region,Administrative and Support Services,93582
+2004-01-01,MAPC_Region,Waste Management and Remediation Service,2498
+2004-01-01,MAPC_Region,Educational Services,128802
+2003-01-01,MAPC_Region,Goods-Producing Domain,218232
+2003-01-01,MAPC_Region,Service-Providing Domain,1547469
+2003-01-01,MAPC_Region,Crop Production,121
+2003-01-01,MAPC_Region,"Fishing, Hunting and Trapping",264
+2003-01-01,MAPC_Region,Agriculture & Forestry Support Activity,68
+2003-01-01,MAPC_Region,Utilities,4291
+2003-01-01,MAPC_Region,Construction of Buildings,16637
+2003-01-01,MAPC_Region,Heavy and Civil Engineering Construction,10796
+2003-01-01,MAPC_Region,Specialty Trade Contractors,45739
+2003-01-01,MAPC_Region,Food Manufacturing,8724
+2003-01-01,MAPC_Region,Textile Mills,119
+2003-01-01,MAPC_Region,Textile Product Mills,359
+2003-01-01,MAPC_Region,Apparel Manufacturing,810
+2003-01-01,MAPC_Region,Leather and Allied Product Manufacturing,285
+2003-01-01,MAPC_Region,Wood Product Manufacturing,508
+2003-01-01,MAPC_Region,Paper Manufacturing,1021
+2003-01-01,MAPC_Region,Printing and Related Support Activities,6929
+2003-01-01,MAPC_Region,Chemical Manufacturing,7245
+2003-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,1385
+2003-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,283
+2003-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,9537
+2003-01-01,MAPC_Region,Machinery Manufacturing,4910
+2003-01-01,MAPC_Region,Computer and Electronic Product Mfg,34283
+2003-01-01,MAPC_Region,Electrical Equipment and Appliances,1614
+2003-01-01,MAPC_Region,Transportation Equipment Manufacturing,1020
+2003-01-01,MAPC_Region,Furniture and Related Product Mfg,1144
+2003-01-01,MAPC_Region,Miscellaneous Manufacturing,6006
+2003-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",39350
+2003-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",19790
+2003-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10818
+2003-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16934
+2003-01-01,MAPC_Region,Furniture and Home Furnishings Stores,6794
+2003-01-01,MAPC_Region,Electronics and Appliance Stores,6710
+2003-01-01,MAPC_Region,Building Material & Garden Supply Stores,8959
+2003-01-01,MAPC_Region,Food and Beverage Stores,41667
+2003-01-01,MAPC_Region,Health and Personal Care Stores,12806
+2003-01-01,MAPC_Region,Gasoline Stations,4381
+2003-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23427
+2003-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,9676
+2003-01-01,MAPC_Region,General Merchandise Stores,15424
+2003-01-01,MAPC_Region,Miscellaneous Store Retailers,11158
+2003-01-01,MAPC_Region,Nonstore Retailers,3598
+2003-01-01,MAPC_Region,Air Transportation,8752
+2003-01-01,MAPC_Region,Water Transportation,33
+2003-01-01,MAPC_Region,Truck Transportation,5679
+2003-01-01,MAPC_Region,Transit and Ground Passenger Transport,3447
+2003-01-01,MAPC_Region,Scenic and Sightseeing Transportation,938
+2003-01-01,MAPC_Region,Support Activities for Transportation,5153
+2003-01-01,MAPC_Region,Couriers and Messengers,2627
+2003-01-01,MAPC_Region,Warehousing and Storage,2144
+2003-01-01,MAPC_Region,Publishing Industries,25415
+2003-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,1773
+2003-01-01,MAPC_Region,Broadcasting (except Internet),3656
+2003-01-01,MAPC_Region,Internet Publishing and Broadcasting,1598
+2003-01-01,MAPC_Region,Telecommunications,10043
+2003-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",5337
+2003-01-01,MAPC_Region,Other Information Services,1349
+2003-01-01,MAPC_Region,Credit Intermediation & Related Activity,33817
+2003-01-01,MAPC_Region,Financial Investment & Related Activity,37828
+2003-01-01,MAPC_Region,Insurance Carriers & Related Activities,37315
+2003-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",1940
+2003-01-01,MAPC_Region,Real Estate,20637
+2003-01-01,MAPC_Region,Rental and Leasing Services,6999
+2003-01-01,MAPC_Region,"Lessors, Nonfinancial Intangible Assets",19
+2003-01-01,MAPC_Region,Professional and Technical Services,165434
+2003-01-01,MAPC_Region,Management of Companies and Enterprises,37034
+2003-01-01,MAPC_Region,Administrative and Support Services,91630
+2003-01-01,MAPC_Region,Waste Management and Remediation Service,2311
+2003-01-01,MAPC_Region,Educational Services,127005
+2003-01-01,MAPC_Region,Ambulatory Health Care Services,63534
+2003-01-01,MAPC_Region,Hospitals,72308
+2003-01-01,MAPC_Region,Nursing and Residential Care Facilities,35914
+2003-01-01,MAPC_Region,Social Assistance,32642
+2003-01-01,MAPC_Region,Performing Arts and Spectator Sports,3669
+2003-01-01,MAPC_Region,"Museums, Parks and Historical Sites",2940
+2003-01-01,MAPC_Region,Accommodation,17620
+2003-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",16428
+2003-01-01,MAPC_Region,Food Services and Drinking Places,107971
+2003-01-01,MAPC_Region,Repair and Maintenance,13555
+2003-01-01,MAPC_Region,Personal and Laundry Services,21019
+2003-01-01,MAPC_Region,Membership Organizations & Associations,19426
+2003-01-01,MAPC_Region,Private Households,7567
+2003-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",5790
+2003-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",15294
+2003-01-01,MAPC_Region,Administration of Human Resource Program,181
+2003-01-01,MAPC_Region,Administration of Environmental Programs,3144
+2003-01-01,MAPC_Region,Community and Housing Program Admin,2041
+2003-01-01,MAPC_Region,Administration of Economic Programs,6016
+2003-01-01,MAPC_Region,National Security & International Affair,1154
+2002-01-01,MAPC_Region,Hospitals,71406
+2002-01-01,MAPC_Region,Nursing and Residential Care Facilities,35931
+2002-01-01,MAPC_Region,Social Assistance,31995
+2002-01-01,MAPC_Region,Performing Arts and Spectator Sports,4187
+2002-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3040
+2002-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",15668
+2002-01-01,MAPC_Region,Accommodation,17588
+2002-01-01,MAPC_Region,Food Services and Drinking Places,108485
+2002-01-01,MAPC_Region,Repair and Maintenance,13485
+2002-01-01,MAPC_Region,Personal and Laundry Services,20901
+2002-01-01,MAPC_Region,Membership Organizations & Associations,20000
+2002-01-01,MAPC_Region,Private Households,7233
+2002-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",6430
+2002-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",15431
+2002-01-01,MAPC_Region,Administration of Human Resource Program,192
+2002-01-01,MAPC_Region,Administration of Environmental Programs,3559
+2002-01-01,MAPC_Region,Community and Housing Program Admin,2128
+2002-01-01,MAPC_Region,Administration of Economic Programs,4585
+2002-01-01,MAPC_Region,National Security & International Affair,1188
+2002-01-01,MAPC_Region,Goods-Producing Domain,233258
+2002-01-01,MAPC_Region,Service-Providing Domain,1584508
+2002-01-01,MAPC_Region,"Fishing, Hunting and Trapping",323
+2002-01-01,MAPC_Region,Crop Production,117
+2002-01-01,MAPC_Region,Agriculture & Forestry Support Activity,84
+2002-01-01,MAPC_Region,Utilities,4387
+2002-01-01,MAPC_Region,Construction of Buildings,16747
+2002-01-01,MAPC_Region,Heavy and Civil Engineering Construction,8692
+2002-01-01,MAPC_Region,Specialty Trade Contractors,46554
+2002-01-01,MAPC_Region,Food Manufacturing,9405
+2002-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,210
+2002-01-01,MAPC_Region,Textile Mills,228
+2002-01-01,MAPC_Region,Textile Product Mills,490
+2002-01-01,MAPC_Region,Apparel Manufacturing,981
+2002-01-01,MAPC_Region,Leather and Allied Product Manufacturing,304
+2002-01-01,MAPC_Region,Wood Product Manufacturing,552
+2002-01-01,MAPC_Region,Paper Manufacturing,781
+2002-01-01,MAPC_Region,Printing and Related Support Activities,7720
+2002-01-01,MAPC_Region,Chemical Manufacturing,7301
+2002-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,1892
+2002-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,110
+2002-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,10080
+2002-01-01,MAPC_Region,Machinery Manufacturing,4569
+2002-01-01,MAPC_Region,Computer and Electronic Product Mfg,33895
+2002-01-01,MAPC_Region,Electrical Equipment and Appliances,2242
+2002-01-01,MAPC_Region,Transportation Equipment Manufacturing,1275
+2002-01-01,MAPC_Region,Furniture and Related Product Mfg,1355
+2002-01-01,MAPC_Region,Miscellaneous Manufacturing,5075
+2002-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",40340
+2002-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",20751
+2002-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,10770
+2002-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16643
+2002-01-01,MAPC_Region,Furniture and Home Furnishings Stores,7237
+2002-01-01,MAPC_Region,Health and Personal Care Stores,13334
+2002-01-01,MAPC_Region,Electronics and Appliance Stores,6783
+2002-01-01,MAPC_Region,Building Material & Garden Supply Stores,9717
+2002-01-01,MAPC_Region,Food and Beverage Stores,40243
+2002-01-01,MAPC_Region,Gasoline Stations,4510
+2002-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,23970
+2002-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,10303
+2002-01-01,MAPC_Region,General Merchandise Stores,15049
+2002-01-01,MAPC_Region,Miscellaneous Store Retailers,11787
+2002-01-01,MAPC_Region,Nonstore Retailers,3373
+2002-01-01,MAPC_Region,Air Transportation,9492
+2002-01-01,MAPC_Region,Water Transportation,35
+2002-01-01,MAPC_Region,Truck Transportation,5827
+2002-01-01,MAPC_Region,Transit and Ground Passenger Transport,3561
+2002-01-01,MAPC_Region,Scenic and Sightseeing Transportation,835
+2002-01-01,MAPC_Region,Publishing Industries,28172
+2002-01-01,MAPC_Region,Support Activities for Transportation,5651
+2002-01-01,MAPC_Region,Couriers and Messengers,2767
+2002-01-01,MAPC_Region,Warehousing and Storage,1835
+2002-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2134
+2002-01-01,MAPC_Region,Broadcasting (except Internet),3770
+2002-01-01,MAPC_Region,Telecommunications,10142
+2002-01-01,MAPC_Region,Internet Publishing and Broadcasting,1933
+2002-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",5600
+2002-01-01,MAPC_Region,Other Information Services,1389
+2002-01-01,MAPC_Region,Credit Intermediation & Related Activity,33221
+2002-01-01,MAPC_Region,Financial Investment & Related Activity,43382
+2002-01-01,MAPC_Region,Insurance Carriers & Related Activities,38254
+2002-01-01,MAPC_Region,Real Estate,20350
+2002-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",2100
+2002-01-01,MAPC_Region,Ambulatory Health Care Services,63444
+2002-01-01,MAPC_Region,Rental and Leasing Services,7025
+2002-01-01,MAPC_Region,Professional and Technical Services,172254
+2002-01-01,MAPC_Region,"Lessors, Nonfinancial Intangible Assets",39
+2002-01-01,MAPC_Region,Management of Companies and Enterprises,35682
+2002-01-01,MAPC_Region,Administrative and Support Services,94160
+2002-01-01,MAPC_Region,Waste Management and Remediation Service,2744
+2002-01-01,MAPC_Region,Educational Services,131456
+2001-01-01,MAPC_Region,Hospitals,66244
+2001-01-01,MAPC_Region,Nursing and Residential Care Facilities,35701
+2001-01-01,MAPC_Region,Social Assistance,30729
+2001-01-01,MAPC_Region,Performing Arts and Spectator Sports,4132
+2001-01-01,MAPC_Region,"Museums, Parks and Historical Sites",3003
+2001-01-01,MAPC_Region,"Amusement, Gambling & Recreation Ind",14826
+2001-01-01,MAPC_Region,Accommodation,19451
+2001-01-01,MAPC_Region,Membership Organizations & Associations,19606
+2001-01-01,MAPC_Region,Food Services and Drinking Places,106250
+2001-01-01,MAPC_Region,Repair and Maintenance,13760
+2001-01-01,MAPC_Region,Personal and Laundry Services,20950
+2001-01-01,MAPC_Region,Private Households,7175
+2001-01-01,MAPC_Region,"Executive, Legislative, & Gen Government",7432
+2001-01-01,MAPC_Region,"Justice, Public Order, and Safety Activi",16331
+2001-01-01,MAPC_Region,Administration of Human Resource Program,151
+2001-01-01,MAPC_Region,Administration of Environmental Programs,3800
+2001-01-01,MAPC_Region,Community and Housing Program Admin,2133
+2001-01-01,MAPC_Region,Administration of Economic Programs,5007
+2001-01-01,MAPC_Region,National Security & International Affair,1248
+2001-01-01,MAPC_Region,Goods-Producing Domain,254073
+2001-01-01,MAPC_Region,Service-Providing Domain,1623278
+2001-01-01,MAPC_Region,Crop Production,160
+2001-01-01,MAPC_Region,"Fishing, Hunting and Trapping",299
+2001-01-01,MAPC_Region,Agriculture & Forestry Support Activity,105
+2001-01-01,MAPC_Region,Utilities,4607
+2001-01-01,MAPC_Region,Construction of Buildings,16513
+2001-01-01,MAPC_Region,Heavy and Civil Engineering Construction,11418
+2001-01-01,MAPC_Region,Specialty Trade Contractors,46686
+2001-01-01,MAPC_Region,Transportation Equipment Manufacturing,1361
+2001-01-01,MAPC_Region,Food Manufacturing,9964
+2001-01-01,MAPC_Region,Beverage & Tobacco Product Manufacturing,267
+2001-01-01,MAPC_Region,Textile Product Mills,587
+2001-01-01,MAPC_Region,Textile Mills,327
+2001-01-01,MAPC_Region,Apparel Manufacturing,1310
+2001-01-01,MAPC_Region,Leather and Allied Product Manufacturing,360
+2001-01-01,MAPC_Region,Wood Product Manufacturing,543
+2001-01-01,MAPC_Region,Paper Manufacturing,1089
+2001-01-01,MAPC_Region,Printing and Related Support Activities,8881
+2001-01-01,MAPC_Region,Chemical Manufacturing,6263
+2001-01-01,MAPC_Region,Plastics & Rubber Products Manufacturing,2464
+2001-01-01,MAPC_Region,Nonmetallic Mineral Product Mfg,171
+2001-01-01,MAPC_Region,Fabricated Metal Product Manufacturing,11347
+2001-01-01,MAPC_Region,Machinery Manufacturing,6028
+2001-01-01,MAPC_Region,Computer and Electronic Product Mfg,46280
+2001-01-01,MAPC_Region,Electrical Equipment and Appliances,2714
+2001-01-01,MAPC_Region,Furniture and Related Product Mfg,1412
+2001-01-01,MAPC_Region,Miscellaneous Manufacturing,5947
+2001-01-01,MAPC_Region,"Merchant Wholesalers, Durable Goods",42985
+2001-01-01,MAPC_Region,"Merchant Wholesalers, Nondurable Goods",21305
+2001-01-01,MAPC_Region,Electronic Markets and Agents/Brokers,11485
+2001-01-01,MAPC_Region,Motor Vehicle and Parts Dealers,16544
+2001-01-01,MAPC_Region,Furniture and Home Furnishings Stores,7210
+2001-01-01,MAPC_Region,Electronics and Appliance Stores,7384
+2001-01-01,MAPC_Region,Building Material & Garden Supply Stores,9555
+2001-01-01,MAPC_Region,Food and Beverage Stores,41207
+2001-01-01,MAPC_Region,Health and Personal Care Stores,13322
+2001-01-01,MAPC_Region,Gasoline Stations,4597
+2001-01-01,MAPC_Region,Clothing and Clothing Accessories Stores,24192
+2001-01-01,MAPC_Region,Sporting Goods/Hobby/Book/Music Stores,10586
+2001-01-01,MAPC_Region,General Merchandise Stores,14923
+2001-01-01,MAPC_Region,Miscellaneous Store Retailers,11869
+2001-01-01,MAPC_Region,Nonstore Retailers,3819
+2001-01-01,MAPC_Region,Air Transportation,10907
+2001-01-01,MAPC_Region,Water Transportation,50
+2001-01-01,MAPC_Region,Truck Transportation,6305
+2001-01-01,MAPC_Region,Transit and Ground Passenger Transport,3889
+2001-01-01,MAPC_Region,Scenic and Sightseeing Transportation,951
+2001-01-01,MAPC_Region,Support Activities for Transportation,5922
+2001-01-01,MAPC_Region,Couriers and Messengers,2942
+2001-01-01,MAPC_Region,Warehousing and Storage,1772
+2001-01-01,MAPC_Region,Publishing Industries,33412
+2001-01-01,MAPC_Region,Motion Picture & Sound Recording Ind,2779
+2001-01-01,MAPC_Region,Broadcasting (except Internet),4148
+2001-01-01,MAPC_Region,Internet Publishing and Broadcasting,2000
+2001-01-01,MAPC_Region,Telecommunications,11885
+2001-01-01,MAPC_Region,"ISPs, Search Portals, & Data Processing",7791
+2001-01-01,MAPC_Region,Other Information Services,1390
+2001-01-01,MAPC_Region,Credit Intermediation & Related Activity,32866
+2001-01-01,MAPC_Region,Financial Investment & Related Activity,45637
+2001-01-01,MAPC_Region,Insurance Carriers & Related Activities,37881
+2001-01-01,MAPC_Region,"Funds, Trusts & Other Financial Vehicles",2021
+2001-01-01,MAPC_Region,Real Estate,20277
+2001-01-01,MAPC_Region,Rental and Leasing Services,8196
+2001-01-01,MAPC_Region,"Lessors, Nonfinancial Intangible Assets",86
+2001-01-01,MAPC_Region,Professional and Technical Services,188880
+2001-01-01,MAPC_Region,Management of Companies and Enterprises,35989
+2001-01-01,MAPC_Region,Ambulatory Health Care Services,64586
+2001-01-01,MAPC_Region,Administrative and Support Services,103349
+2001-01-01,MAPC_Region,Waste Management and Remediation Service,2855
+2001-01-01,MAPC_Region,Educational Services,127715
