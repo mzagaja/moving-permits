@@ -113,14 +113,14 @@ window.addEventListener('DOMContentLoaded', () => {
         .selectAll('text');
 
       return ([date, data], transition) => label = label
-        .data(data.slice(0, 12), d => d.name)
+        .data(data.slice(0, 12), d => d.zip)
         .join(
           (enter) => enter.append('text')
             .attr('transform', d => `translate(${x((prev.get(d) || d).value)},${y((prev.get(d) || d).rank)})`)
             .attr('y', y.bandwidth() / 2)
             .attr('x', -6)
             .attr('dy', '-0.25em')
-            .text(d => d.name)
+            .text(d => d.zip)
             .call(text => text.append('tspan')
               .attr('fill-opacity', 0.7)
               .attr('font-weight', 'normal')
@@ -136,16 +136,52 @@ window.addEventListener('DOMContentLoaded', () => {
           .call(g => g.select('tspan').tween('text', d => textTween((prev.get(d) || d).value, d.value))))
     }
 
+    function axis(svg) {
+      const g = svg.append('g')
+        .attr('transform', `translate(0,${margin.top})`);
+
+      const axis = d3.axisTop(x)
+        .ticks(width / 160)
+        .tickSizeOuter(0)
+        .tickSizeInner(-barSize * (12 + y.padding()));
+
+      return (_, transition) => {
+        g.transition(transition).call(axis);
+        g.select('.tick:first-of-type text').remove();
+        g.selectAll('.tick:not(:first-of-type) line').attr('stroke', 'white');
+        g.select('.domain').remove();
+      };
+    }
+
+    function ticker(svg) {
+      const now = svg.append('text')
+        .style('font', `bold ${barSize}px var(--sans-serif)`)
+        .style('font-variant-numeric', 'tabular-nums')
+        .attr('text-anchor', 'end')
+        .attr('x', width - 6)
+        .attr('y', margin.top + barSize * (12 - 0.45))
+        .attr('dy', '0.32em')
+        .text(formatDate(allKeyframes[0][0]));
+
+      return ([date], transition) => {
+        transition.end().then(() => now.text(formatDate(date)));
+      };
+    }
+
     const updateBars = bars(svg);
     const updateLabels = labels(svg);
+    const updateAxis = axis(svg);
+    const updateTicker = ticker(svg);
 
     async function codeToRun() {
       for (i = 0; i < 20; i += 1) {
         // debugger;
-        const transition = svg.transition().duration(500).ease(d3.easeLinear);
+        const transition = svg.transition().duration(300).ease(d3.easeLinear);
         x.domain([0, allKeyframes[i][1][0].value]);
         updateBars(allKeyframes[i], transition);
         updateLabels(allKeyframes[i], transition);
+        updateAxis(allKeyframes[i], transition);
+        updateTicker(allKeyframes[i], transition);
         await transition.end();
       }
     }
