@@ -1,10 +1,10 @@
 window.addEventListener('DOMContentLoaded', () => {
   Promise.all([
-    d3.csv('/assets/data/three-digit-sub-sector-01-17.csv', (d) => ({
+    d3.csv('/assets/data/four-digit-industry-group-01-17.csv', (d) => ({
       measurementDate: +d.date,
       categorys: d.category,
       municipality: d.name,
-      employees: d.employees
+      employees: d.estab
     })),
   ]).then((employmentData) => {
     const filteredData = employmentData[0].filter(d => d.municipality === 'MAPC Region');
