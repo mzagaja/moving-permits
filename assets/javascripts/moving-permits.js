@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
   Promise.all([
-    d3.csv('/assets/data/two-digit-sector-01-17.csv', (d) => ({
+    d3.csv('/assets/data/three-digit-sub-sector-01-17.csv', (d) => ({
       measurementDate: +d.date,
       categorys: d.category,
       municipality: d.name,
@@ -32,8 +32,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
     const categoryss = new Set(filteredData.map((d) => d.categorys));
 
-    // debugger;
-
     function rank(value) {
       const data = Array.from(categoryss, (categorys) => ({ categorys, value: value(categorys) || 0 }));
       data.sort((a, b) => d3.descending(a.value, b.value));
@@ -62,6 +60,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     const allKeyframes = keyframes(employmentByDate);
+    // debugger;
     const nameframes = d3.groups(allKeyframes.flatMap(([, data]) => data), (d) => d.categorys);
     let prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
     let next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
