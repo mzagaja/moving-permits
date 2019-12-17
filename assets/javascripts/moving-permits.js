@@ -64,8 +64,6 @@ window.addEventListener('DOMContentLoaded', () => {
     let prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
     let next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
 
-    // debugger;
-
     const x = d3.scaleLinear([0, 1], [margin.left, width - margin.right]);
     const y = d3.scaleBand()
       .domain(d3.range(topTwelve + 1))
@@ -98,63 +96,61 @@ window.addEventListener('DOMContentLoaded', () => {
           .attr('width', (d) => x(d.value) - x(0)));
     }
 
-
-    const updateBars = bars(svg);
-
-    for (i = 0; i < 20; i += 1) {
-      updateBars(allKeyframes[i], svg.transition().duration(250).ease(d3.easeLinear));
+    function textTween(a, b) {
+      const i = d3.interpolateNumber(a, b);
+      return function(t) {
+        this.textContent = formatNumber(i(t));
+      };
     }
 
-    // function animate(currentValue) {
-    //   svg.transition()
-    //     .duration(250)
-    //     .ease(d3.easeLinear);
-    //   updateBars(currentValue);
-    // }
+    formatNumber = d3.format(',d');
 
-    // allKeyframes.forEach(animate);
+    function labels(svg) {
+      let label = svg.append('g')
+        .style('font', 'bold 12px var(--sans-serif)')
+        .style('font-variant-numeric', 'tabular-nums')
+        .attr('text-anchor', 'end')
+        .selectAll('text');
 
-    // debugger;
+      return ([date, data], transition) => label = label
+        .data(data.slice(0, 12), d => d.name)
+        .join(
+          (enter) => enter.append('text')
+            .attr('transform', d => `translate(${x((prev.get(d) || d).value)},${y((prev.get(d) || d).rank)})`)
+            .attr('y', y.bandwidth() / 2)
+            .attr('x', -6)
+            .attr('dy', '-0.25em')
+            .text(d => d.name)
+            .call(text => text.append('tspan')
+              .attr('fill-opacity', 0.7)
+              .attr('font-weight', 'normal')
+              .attr('x', -6)
+              .attr('dy', '1.15em')),
+          (update) => update,
+          (exit) => exit.transition(transition).remove()
+            .attr('transform', d => `translate(${x((next.get(d) || d).value)},${y((next.get(d) || d).rank)})`)
+            .call(g => g.select('tspan').tween('text', d => textTween(d.value, (next.get(d) || d).value)))
+        )
+        .call((bar) => bar.transition(transition)
+          .attr('transform', d => `translate(${x(d.value)},${y(d.rank)})`)
+          .call(g => g.select('tspan').tween('text', d => textTween((prev.get(d) || d).value, d.value))))
+    }
 
-    // function labels(svg) {
-    //   let label = svg.append('g')
-    //     .style('font', 'bold 12px var(--sans-serif)')
-    //     .style('font-variant-numeric', 'tabular-nums')
-    //     .attr('text-anchor', 'end')
-    //     .selectAll('text');
+    const updateBars = bars(svg);
+    const updateLabels = labels(svg);
 
-    //   return ([date, data], transition) => label = label
-    //     .data(data.slice(0, n), (d) => d.name)
-    //     .join(
-    //       (enter) => enter.append('text')
-    //         .attr('transform', (d) => `translate(${x((prev.get(d) || d).value)},${y((prev.get(d) || d).rank)})`)
-    //         .attr('y', y.bandwidth() / 2)
-    //         .attr('x', -6)
-    //         .attr('dy', '-0.25em')
-    //         .text((d) => d.name)
-    //         .call((text) => text.append('tspan')
-    //           .attr('fill-opacity', 0.7)
-    //           .attr('font-weight', 'normal')
-    //           .attr('x', -6)
-    //           .attr('dy', '1.15em')),
-    //       (update) => update,
-    //       (exit) => exit.transition(transition).remove()
-    //         .attr('transform', (d) => `translate(${x((next.get(d) || d).value)},${y((next.get(d) || d).rank)})`)
-    //         .call((g) => g.select('tspan').tween('text', (d) => textTween(d.value, (next.get(d) || d).value))),
-    //     )
-    //     .call((bar) => bar.transition(transition)
-    //       .attr('transform', (d) => `translate(${x(d.value)},${y(d.rank)})`)
-    //       .call((g) => g.select('tspan').tween('text', (d) => textTween((prev.get(d) || d).value, d.value))));
-    // }
+    async function codeToRun() {
+      for (i = 0; i < 20; i += 1) {
+        // debugger;
+        const transition = svg.transition().duration(500).ease(d3.easeLinear);
+        x.domain([0, allKeyframes[i][1][0].value]);
+        updateBars(allKeyframes[i], transition);
+        updateLabels(allKeyframes[i], transition);
+        await transition.end();
+      }
+    }
 
-    // function textTween(a, b) {
-    //   const i = d3.interpolateNumber(a, b);
-    //   return function (t) {
-    //     this.textContent = formatNumber(i(t));
-    //   };
-    // }
-
-    // formatNumber = d3.format(',d');
+    codeToRun();
 
     // function axis(svg) {
     //   const g = svg.append('g')
