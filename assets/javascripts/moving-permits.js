@@ -27,10 +27,18 @@ window.addEventListener('DOMContentLoaded', () => {
       .attr('viewBox', [0, 0, width, height]);
 
     // discard empty years from datevalues
-    const consistentValues = [movingPermitsByDate[7], movingPermitsByDate[8], movingPermitsByDate[9]];
+    const consistentValues = [
+      movingPermitsByDate[4],
+      movingPermitsByDate[5],
+      movingPermitsByDate[6],
+      movingPermitsByDate[7],
+      movingPermitsByDate[8],
+      movingPermitsByDate[9],
+      movingPermitsByDate[10],
+      movingPermitsByDate[11],
+    ];
 
     const zips = new Set(movingPermitdata[0].map((d) => d.zip));
-    // debugger;
 
     function rank(value) {
       const data = Array.from(zips, (zip) => ({ zip, value: value(zip) || 0 }));
@@ -174,9 +182,8 @@ window.addEventListener('DOMContentLoaded', () => {
     const updateTicker = ticker(svg);
 
     async function codeToRun() {
-      for (i = 0; i < 20; i += 1) {
-        // debugger;
-        const transition = svg.transition().duration(300).ease(d3.easeLinear);
+      for (i = 0; i < (10 * consistentValues.length); i += 1) {
+        const transition = svg.transition().duration(250).ease(d3.easeLinear);
         x.domain([0, allKeyframes[i][1][0].value]);
         updateBars(allKeyframes[i], transition);
         updateLabels(allKeyframes[i], transition);
@@ -187,38 +194,5 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     codeToRun();
-
-    // function axis(svg) {
-    //   const g = svg.append('g')
-    //     .attr('transform', `translate(0,${margin.top})`);
-
-    //   const axis = d3.axisTop(x)
-    //     .ticks(width / 160)
-    //     .tickSizeOuter(0)
-    //     .tickSizeInner(-barSize * (n + y.padding()));
-
-    //   return (_, transition) => {
-    //     g.transition(transition).call(axis);
-    //     g.select('.tick:first-of-type text').remove();
-    //     g.selectAll('.tick:not(:first-of-type) line').attr('stroke', 'white');
-    //     g.select('.domain').remove();
-    //   };
-    // }
-
-    // function ticker(svg) {
-    //   const now = svg.append('text')
-    //     .style('font', `bold ${barSize}px var(--sans-serif)`)
-    //     .style('font-variant-numeric', 'tabular-nums')
-    //     .attr('text-anchor', 'end')
-    //     .attr('x', width - 6)
-    //     .attr('y', margin.top + barSize * (n - 0.45))
-    //     .attr('dy', '0.32em')
-    //     .text(formatDate(keyframes[0][0]));
-
-    //   return ([date], transition) => {
-    //     transition.end().then(() => now.text(formatDate(date)));
-    //   };
-    // }
-    //
   });
 });
